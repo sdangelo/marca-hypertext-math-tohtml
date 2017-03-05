@@ -1,0 +1,37 @@
+{
+  "name": "marca-hypertext-math-tohtml",
+  "version": "0.1.0",
+  "description": "Hypertext+math-to-HTML for Marca",
+  "main": "marca-hypertext-math-tohtml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdangelo/marca-hypertext-math-tohtml.git"
+  },
+  "keywords": [
+    "marca",
+    "hypertext",
+    "html",
+    "markup",
+    "language",
+    "math",
+    "kroton",
+    "layout",
+    "typesetting",
+    "svg"
+  ],
+  "author": "Stefano D'Angelo <zanga.mail@gmail.com> (http://sdangelo.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdangelo/marca-hypertext-math-tohtml/issues",
+    "email": "zanga.mail@gmail.com"
+  },
+  "peerDependencies": {
+    "marca-hypertext-math": "0.1.x",
+    "marca-hypertext-tohtml": "0.1.x",
+    "marca-math-tokroton": "0.1.x",
+    "kroton-tosvg": "0.0.x"
+  }
+}

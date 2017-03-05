@@ -1,0 +1,8470 @@
+{
+  "unitsPerEm": 1000,
+  "ascender": 750,
+  "descender": -250,
+  "lineGap": 510,
+  "subscriptXSize": 500,
+  "subscriptYSize": 500,
+  "subscriptXOffset": 0,
+  "subscriptYOffset": 250,
+  "superscriptXSize": 500,
+  "superscriptYSize": 500,
+  "superscriptXOffset": 0,
+  "superscriptYOffset": 500,
+  "underlinePosition": -75,
+  "glyphs": [
+    {
+      "glyphId": 0,
+      "advanceWidth": 500,
+      "leftSideBearing": 0,
+      "xMin": 50,
+      "xMax": 450,
+      "yMin": 0,
+      "yMax": 500
+    },
+    {
+      "glyphId": 1,
+      "charCode": 32,
+      "advanceWidth": 250,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 2,
+      "charCode": 33,
+      "advanceWidth": 389,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 370,
+      "yMin": -13,
+      "yMax": 684
+    },
+    {
+      "glyphId": 3,
+      "charCode": 34,
+      "advanceWidth": 555,
+      "leftSideBearing": 136,
+      "xMin": 136,
+      "xMax": 536,
+      "yMin": 398,
+      "yMax": 685
+    },
+    {
+      "glyphId": 4,
+      "charCode": 35,
+      "advanceWidth": 500,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 532,
+      "yMin": 0,
+      "yMax": 700
+    },
+    {
+      "glyphId": 5,
+      "charCode": 36,
+      "advanceWidth": 500,
+      "leftSideBearing": -20,
+      "xMin": -20,
+      "xMax": 497,
+      "yMin": -100,
+      "yMax": 733
+    },
+    {
+      "glyphId": 6,
+      "charCode": 37,
+      "advanceWidth": 757,
+      "leftSideBearing": 80,
+      "xMin": 80,
+      "xMax": 707,
+      "yMin": -29,
+      "yMax": 706
+    },
+    {
+      "glyphId": 7,
+      "charCode": 38,
+      "advanceWidth": 849,
+      "leftSideBearing": 76,
+      "xMin": 76,
+      "xMax": 771,
+      "yMin": -19,
+      "yMax": 682
+    },
+    {
+      "glyphId": 8,
+      "charCode": 39,
+      "advanceWidth": 278,
+      "leftSideBearing": 128,
+      "xMin": 128,
+      "xMax": 268,
+      "yMin": 398,
+      "yMax": 685
+    },
+    {
+      "glyphId": 9,
+      "charCode": 40,
+      "advanceWidth": 333,
+      "leftSideBearing": 28,
+      "xMin": 28,
+      "xMax": 344,
+      "yMin": -179,
+      "yMax": 685
+    },
+    {
+      "glyphId": 10,
+      "charCode": 41,
+      "advanceWidth": 333,
+      "leftSideBearing": -44,
+      "xMin": -44,
+      "xMax": 271,
+      "yMin": -179,
+      "yMax": 685
+    },
+    {
+      "glyphId": 11,
+      "charCode": 42,
+      "advanceWidth": 500,
+      "leftSideBearing": 101,
+      "xMin": 101,
+      "xMax": 492,
+      "yMin": 252,
+      "yMax": 685
+    },
+    {
+      "glyphId": 12,
+      "charCode": 43,
+      "advanceWidth": 570,
+      "leftSideBearing": 33,
+      "xMin": 33,
+      "xMax": 537,
+      "yMin": 0,
+      "yMax": 506
+    },
+    {
+      "glyphId": 13,
+      "charCode": 44,
+      "advanceWidth": 250,
+      "leftSideBearing": -60,
+      "xMin": -60,
+      "xMax": 144,
+      "yMin": -182,
+      "yMax": 134
+    },
+    {
+      "glyphId": 14,
+      "charCode": 45,
+      "advanceWidth": 333,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 271,
+      "yMin": 166,
+      "yMax": 282
+    },
+    {
+      "glyphId": 15,
+      "charCode": 46,
+      "advanceWidth": 250,
+      "leftSideBearing": -9,
+      "xMin": -9,
+      "xMax": 139,
+      "yMin": -13,
+      "yMax": 135
+    },
+    {
+      "glyphId": 16,
+      "charCode": 47,
+      "advanceWidth": 278,
+      "leftSideBearing": -64,
+      "xMin": -64,
+      "xMax": 342,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 17,
+      "charCode": 48,
+      "advanceWidth": 500,
+      "leftSideBearing": 17,
+      "xMin": 17,
+      "xMax": 477,
+      "yMin": -14,
+      "yMax": 683
+    },
+    {
+      "glyphId": 18,
+      "charCode": 49,
+      "advanceWidth": 500,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 419,
+      "yMin": 0,
+      "yMax": 683
+    },
+    {
+      "glyphId": 19,
+      "charCode": 50,
+      "advanceWidth": 500,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 446,
+      "yMin": 0,
+      "yMax": 683
+    },
+    {
+      "glyphId": 20,
+      "charCode": 51,
+      "advanceWidth": 500,
+      "leftSideBearing": -14,
+      "xMin": -14,
+      "xMax": 450,
+      "yMin": -13,
+      "yMax": 683
+    },
+    {
+      "glyphId": 21,
+      "charCode": 52,
+      "advanceWidth": 500,
+      "leftSideBearing": -15,
+      "xMin": -15,
+      "xMax": 503,
+      "yMin": 0,
+      "yMax": 683
+    },
+    {
+      "glyphId": 22,
+      "charCode": 53,
+      "advanceWidth": 500,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 486,
+      "yMin": -13,
+      "yMax": 669
+    },
+    {
+      "glyphId": 23,
+      "charCode": 54,
+      "advanceWidth": 500,
+      "leftSideBearing": 23,
+      "xMin": 23,
+      "xMax": 509,
+      "yMin": -15,
+      "yMax": 679
+    },
+    {
+      "glyphId": 24,
+      "charCode": 55,
+      "advanceWidth": 500,
+      "leftSideBearing": 52,
+      "xMin": 52,
+      "xMax": 525,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 25,
+      "charCode": 56,
+      "advanceWidth": 500,
+      "leftSideBearing": 3,
+      "xMin": 3,
+      "xMax": 476,
+      "yMin": -13,
+      "yMax": 683
+    },
+    {
+      "glyphId": 26,
+      "charCode": 57,
+      "advanceWidth": 500,
+      "leftSideBearing": -12,
+      "xMin": -12,
+      "xMax": 475,
+      "yMin": -10,
+      "yMax": 683
+    },
+    {
+      "glyphId": 27,
+      "charCode": 58,
+      "advanceWidth": 333,
+      "leftSideBearing": 23,
+      "xMin": 23,
+      "xMax": 264,
+      "yMin": -13,
+      "yMax": 459
+    },
+    {
+      "glyphId": 28,
+      "charCode": 59,
+      "advanceWidth": 333,
+      "leftSideBearing": -25,
+      "xMin": -25,
+      "xMax": 264,
+      "yMin": -183,
+      "yMax": 459
+    },
+    {
+      "glyphId": 29,
+      "charCode": 60,
+      "advanceWidth": 570,
+      "leftSideBearing": 31,
+      "xMin": 31,
+      "xMax": 539,
+      "yMin": -12,
+      "yMax": 518
+    },
+    {
+      "glyphId": 30,
+      "charCode": 61,
+      "advanceWidth": 570,
+      "leftSideBearing": 33,
+      "xMin": 33,
+      "xMax": 537,
+      "yMin": 107,
+      "yMax": 399
+    },
+    {
+      "glyphId": 31,
+      "charCode": 62,
+      "advanceWidth": 570,
+      "leftSideBearing": 31,
+      "xMin": 31,
+      "xMax": 539,
+      "yMin": -12,
+      "yMax": 518
+    },
+    {
+      "glyphId": 32,
+      "charCode": 63,
+      "advanceWidth": 500,
+      "leftSideBearing": 79,
+      "xMin": 79,
+      "xMax": 470,
+      "yMin": -13,
+      "yMax": 684
+    },
+    {
+      "glyphId": 33,
+      "charCode": 64,
+      "advanceWidth": 939,
+      "leftSideBearing": 118,
+      "xMin": 118,
+      "xMax": 825,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 34,
+      "charCode": 65,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 593,
+      "yMin": 0,
+      "yMax": 683
+    },
+    {
+      "glyphId": 35,
+      "charCode": 66,
+      "advanceWidth": 667,
+      "leftSideBearing": -25,
+      "xMin": -25,
+      "xMax": 624,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 36,
+      "charCode": 67,
+      "advanceWidth": 667,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 677,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 37,
+      "charCode": 68,
+      "advanceWidth": 722,
+      "leftSideBearing": -46,
+      "xMin": -46,
+      "xMax": 685,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 38,
+      "charCode": 69,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 39,
+      "charCode": 70,
+      "advanceWidth": 667,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 660,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 40,
+      "charCode": 71,
+      "advanceWidth": 722,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 705,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 41,
+      "charCode": 72,
+      "advanceWidth": 778,
+      "leftSideBearing": -24,
+      "xMin": -24,
+      "xMax": 799,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 42,
+      "charCode": 73,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 406,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 43,
+      "charCode": 74,
+      "advanceWidth": 500,
+      "leftSideBearing": -46,
+      "xMin": -46,
+      "xMax": 524,
+      "yMin": -99,
+      "yMax": 669
+    },
+    {
+      "glyphId": 44,
+      "charCode": 75,
+      "advanceWidth": 667,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 702,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 45,
+      "charCode": 76,
+      "advanceWidth": 611,
+      "leftSideBearing": -22,
+      "xMin": -22,
+      "xMax": 590,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 46,
+      "charCode": 77,
+      "advanceWidth": 889,
+      "leftSideBearing": -29,
+      "xMin": -29,
+      "xMax": 917,
+      "yMin": -12,
+      "yMax": 669
+    },
+    {
+      "glyphId": 47,
+      "charCode": 78,
+      "advanceWidth": 722,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 748,
+      "yMin": -15,
+      "yMax": 669
+    },
+    {
+      "glyphId": 48,
+      "charCode": 79,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 49,
+      "charCode": 80,
+      "advanceWidth": 611,
+      "leftSideBearing": -28,
+      "xMin": -28,
+      "xMax": 613,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 50,
+      "charCode": 81,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -208,
+      "yMax": 685
+    },
+    {
+      "glyphId": 51,
+      "charCode": 82,
+      "advanceWidth": 667,
+      "leftSideBearing": -28,
+      "xMin": -28,
+      "xMax": 623,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 52,
+      "charCode": 83,
+      "advanceWidth": 556,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 526,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 53,
+      "charCode": 84,
+      "advanceWidth": 611,
+      "leftSideBearing": 49,
+      "xMin": 49,
+      "xMax": 650,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 54,
+      "charCode": 85,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -18,
+      "yMax": 669
+    },
+    {
+      "glyphId": 55,
+      "charCode": 86,
+      "advanceWidth": 667,
+      "leftSideBearing": 66,
+      "xMin": 66,
+      "xMax": 715,
+      "yMin": -18,
+      "yMax": 669
+    },
+    {
+      "glyphId": 56,
+      "charCode": 87,
+      "advanceWidth": 889,
+      "leftSideBearing": 64,
+      "xMin": 64,
+      "xMax": 940,
+      "yMin": -18,
+      "yMax": 669
+    },
+    {
+      "glyphId": 57,
+      "charCode": 88,
+      "advanceWidth": 667,
+      "leftSideBearing": -24,
+      "xMin": -24,
+      "xMax": 694,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 58,
+      "charCode": 89,
+      "advanceWidth": 611,
+      "leftSideBearing": 71,
+      "xMin": 71,
+      "xMax": 659,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 59,
+      "charCode": 90,
+      "advanceWidth": 611,
+      "leftSideBearing": -12,
+      "xMin": -12,
+      "xMax": 589,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 60,
+      "charCode": 91,
+      "advanceWidth": 333,
+      "leftSideBearing": -37,
+      "xMin": -37,
+      "xMax": 362,
+      "yMin": -159,
+      "yMax": 674
+    },
+    {
+      "glyphId": 61,
+      "charCode": 92,
+      "advanceWidth": 278,
+      "leftSideBearing": -1,
+      "xMin": -1,
+      "xMax": 279,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 62,
+      "charCode": 93,
+      "advanceWidth": 333,
+      "leftSideBearing": -56,
+      "xMin": -56,
+      "xMax": 343,
+      "yMin": -157,
+      "yMax": 674
+    },
+    {
+      "glyphId": 63,
+      "charCode": 94,
+      "advanceWidth": 570,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 503,
+      "yMin": 304,
+      "yMax": 669
+    },
+    {
+      "glyphId": 64,
+      "charCode": 95,
+      "advanceWidth": 500,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 500,
+      "yMin": -125,
+      "yMax": -75
+    },
+    {
+      "glyphId": 65,
+      "charCode": 96,
+      "advanceWidth": 333,
+      "leftSideBearing": 85,
+      "xMin": 85,
+      "xMax": 297,
+      "yMin": 516,
+      "yMax": 697
+    },
+    {
+      "glyphId": 66,
+      "charCode": 97,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 456,
+      "yMin": -14,
+      "yMax": 462
+    },
+    {
+      "glyphId": 67,
+      "charCode": 98,
+      "advanceWidth": 500,
+      "leftSideBearing": -14,
+      "xMin": -14,
+      "xMax": 444,
+      "yMin": -13,
+      "yMax": 699
+    },
+    {
+      "glyphId": 68,
+      "charCode": 99,
+      "advanceWidth": 444,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 392,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 69,
+      "charCode": 100,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 517,
+      "yMin": -13,
+      "yMax": 699
+    },
+    {
+      "glyphId": 70,
+      "charCode": 101,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 398,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 71,
+      "charCode": 102,
+      "advanceWidth": 333,
+      "leftSideBearing": -169,
+      "xMin": -169,
+      "xMax": 446,
+      "yMin": -205,
+      "yMax": 698
+    },
+    {
+      "glyphId": 72,
+      "charCode": 103,
+      "advanceWidth": 500,
+      "leftSideBearing": -52,
+      "xMin": -52,
+      "xMax": 477,
+      "yMin": -203,
+      "yMax": 462
+    },
+    {
+      "glyphId": 73,
+      "charCode": 104,
+      "advanceWidth": 556,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 498,
+      "yMin": -9,
+      "yMax": 699
+    },
+    {
+      "glyphId": 74,
+      "charCode": 105,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 262,
+      "yMin": -9,
+      "yMax": 684
+    },
+    {
+      "glyphId": 75,
+      "charCode": 106,
+      "advanceWidth": 278,
+      "leftSideBearing": -189,
+      "xMin": -189,
+      "xMax": 279,
+      "yMin": -207,
+      "yMax": 685
+    },
+    {
+      "glyphId": 76,
+      "charCode": 107,
+      "advanceWidth": 500,
+      "leftSideBearing": -23,
+      "xMin": -23,
+      "xMax": 483,
+      "yMin": -8,
+      "yMax": 699
+    },
+    {
+      "glyphId": 77,
+      "charCode": 108,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 290,
+      "yMin": -9,
+      "yMax": 699
+    },
+    {
+      "glyphId": 78,
+      "charCode": 109,
+      "advanceWidth": 778,
+      "leftSideBearing": -14,
+      "xMin": -14,
+      "xMax": 723,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 79,
+      "charCode": 110,
+      "advanceWidth": 556,
+      "leftSideBearing": -6,
+      "xMin": -6,
+      "xMax": 494,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 80,
+      "charCode": 111,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 441,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 81,
+      "charCode": 112,
+      "advanceWidth": 500,
+      "leftSideBearing": -120,
+      "xMin": -120,
+      "xMax": 446,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 82,
+      "charCode": 113,
+      "advanceWidth": 500,
+      "leftSideBearing": 1,
+      "xMin": 1,
+      "xMax": 471,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 83,
+      "charCode": 114,
+      "advanceWidth": 389,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 389,
+      "yMin": 0,
+      "yMax": 462
+    },
+    {
+      "glyphId": 84,
+      "charCode": 115,
+      "advanceWidth": 389,
+      "leftSideBearing": -19,
+      "xMin": -19,
+      "xMax": 333,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 85,
+      "charCode": 116,
+      "advanceWidth": 278,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 281,
+      "yMin": -9,
+      "yMax": 594
+    },
+    {
+      "glyphId": 86,
+      "charCode": 117,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 493,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 87,
+      "charCode": 118,
+      "advanceWidth": 444,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 401,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 88,
+      "charCode": 119,
+      "advanceWidth": 667,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 614,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 89,
+      "charCode": 120,
+      "advanceWidth": 500,
+      "leftSideBearing": -45,
+      "xMin": -45,
+      "xMax": 469,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 90,
+      "charCode": 121,
+      "advanceWidth": 444,
+      "leftSideBearing": -94,
+      "xMin": -94,
+      "xMax": 392,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 91,
+      "charCode": 122,
+      "advanceWidth": 389,
+      "leftSideBearing": -43,
+      "xMin": -43,
+      "xMax": 368,
+      "yMin": -78,
+      "yMax": 449
+    },
+    {
+      "glyphId": 92,
+      "charCode": 123,
+      "advanceWidth": 348,
+      "leftSideBearing": 4,
+      "xMin": 4,
+      "xMax": 436,
+      "yMin": -187,
+      "yMax": 686
+    },
+    {
+      "glyphId": 93,
+      "charCode": 124,
+      "advanceWidth": 220,
+      "leftSideBearing": 66,
+      "xMin": 66,
+      "xMax": 154,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 94,
+      "charCode": 125,
+      "advanceWidth": 348,
+      "leftSideBearing": -129,
+      "xMin": -129,
+      "xMax": 303,
+      "yMin": -187,
+      "yMax": 686
+    },
+    {
+      "glyphId": 95,
+      "charCode": 126,
+      "advanceWidth": 570,
+      "leftSideBearing": 54,
+      "xMin": 54,
+      "xMax": 516,
+      "yMin": 175,
+      "yMax": 331
+    },
+    {
+      "glyphId": 96,
+      "charCode": 160,
+      "advanceWidth": 250,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 97,
+      "charCode": 161,
+      "advanceWidth": 389,
+      "leftSideBearing": 19,
+      "xMin": 19,
+      "xMax": 320,
+      "yMin": -205,
+      "yMax": 494
+    },
+    {
+      "glyphId": 98,
+      "charCode": 162,
+      "advanceWidth": 500,
+      "leftSideBearing": 42,
+      "xMin": 42,
+      "xMax": 439,
+      "yMin": -143,
+      "yMax": 576
+    },
+    {
+      "glyphId": 99,
+      "charCode": 163,
+      "advanceWidth": 500,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 510,
+      "yMin": -12,
+      "yMax": 683
+    },
+    {
+      "glyphId": 100,
+      "charCode": 164,
+      "advanceWidth": 500,
+      "leftSideBearing": -26,
+      "xMin": -26,
+      "xMax": 526,
+      "yMin": -10,
+      "yMax": 542
+    },
+    {
+      "glyphId": 101,
+      "charCode": 165,
+      "advanceWidth": 500,
+      "leftSideBearing": 33,
+      "xMin": 33,
+      "xMax": 628,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 102,
+      "charCode": 166,
+      "advanceWidth": 220,
+      "leftSideBearing": 66,
+      "xMin": 66,
+      "xMax": 154,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 103,
+      "charCode": 167,
+      "advanceWidth": 500,
+      "leftSideBearing": 36,
+      "xMin": 36,
+      "xMax": 459,
+      "yMin": -143,
+      "yMax": 685
+    },
+    {
+      "glyphId": 104,
+      "charCode": 168,
+      "advanceWidth": 333,
+      "leftSideBearing": 55,
+      "xMin": 55,
+      "xMax": 397,
+      "yMin": 525,
+      "yMax": 655
+    },
+    {
+      "glyphId": 105,
+      "charCode": 169,
+      "advanceWidth": 747,
+      "leftSideBearing": 30,
+      "xMin": 30,
+      "xMax": 718,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 106,
+      "charCode": 170,
+      "advanceWidth": 266,
+      "leftSideBearing": 16,
+      "xMin": 16,
+      "xMax": 330,
+      "yMin": 399,
+      "yMax": 685
+    },
+    {
+      "glyphId": 107,
+      "charCode": 171,
+      "advanceWidth": 500,
+      "leftSideBearing": 12,
+      "xMin": 12,
+      "xMax": 468,
+      "yMin": 32,
+      "yMax": 415
+    },
+    {
+      "glyphId": 108,
+      "charCode": 172,
+      "advanceWidth": 606,
+      "leftSideBearing": 51,
+      "xMin": 51,
+      "xMax": 555,
+      "yMin": 108,
+      "yMax": 399
+    },
+    {
+      "glyphId": 109,
+      "charCode": 173,
+      "advanceWidth": 333,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 271,
+      "yMin": 166,
+      "yMax": 282
+    },
+    {
+      "glyphId": 110,
+      "charCode": 174,
+      "advanceWidth": 747,
+      "leftSideBearing": 30,
+      "xMin": 30,
+      "xMax": 718,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 111,
+      "charCode": 175,
+      "advanceWidth": 333,
+      "leftSideBearing": 51,
+      "xMin": 51,
+      "xMax": 393,
+      "yMin": 553,
+      "yMax": 623
+    },
+    {
+      "glyphId": 112,
+      "charCode": 176,
+      "advanceWidth": 400,
+      "leftSideBearing": 83,
+      "xMin": 83,
+      "xMax": 369,
+      "yMin": 402,
+      "yMax": 688
+    },
+    {
+      "glyphId": 113,
+      "charCode": 177,
+      "advanceWidth": 570,
+      "leftSideBearing": 33,
+      "xMin": 33,
+      "xMax": 537,
+      "yMin": 0,
+      "yMax": 568
+    },
+    {
+      "glyphId": 114,
+      "charCode": 178,
+      "advanceWidth": 300,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 313,
+      "yMin": 274,
+      "yMax": 683
+    },
+    {
+      "glyphId": 115,
+      "charCode": 179,
+      "advanceWidth": 300,
+      "leftSideBearing": 17,
+      "xMin": 17,
+      "xMax": 321,
+      "yMin": 265,
+      "yMax": 683
+    },
+    {
+      "glyphId": 116,
+      "charCode": 180,
+      "advanceWidth": 333,
+      "leftSideBearing": 139,
+      "xMin": 139,
+      "xMax": 379,
+      "yMin": 516,
+      "yMax": 697
+    },
+    {
+      "glyphId": 117,
+      "charCode": 181,
+      "advanceWidth": 576,
+      "leftSideBearing": -60,
+      "xMin": -60,
+      "xMax": 516,
+      "yMin": -207,
+      "yMax": 449
+    },
+    {
+      "glyphId": 118,
+      "charCode": 182,
+      "advanceWidth": 617,
+      "leftSideBearing": 60,
+      "xMin": 60,
+      "xMax": 679,
+      "yMin": -193,
+      "yMax": 669
+    },
+    {
+      "glyphId": 119,
+      "charCode": 183,
+      "advanceWidth": 250,
+      "leftSideBearing": 51,
+      "xMin": 51,
+      "xMax": 199,
+      "yMin": 257,
+      "yMax": 405
+    },
+    {
+      "glyphId": 120,
+      "charCode": 184,
+      "advanceWidth": 333,
+      "leftSideBearing": -80,
+      "xMin": -80,
+      "xMax": 156,
+      "yMin": -218,
+      "yMax": 5
+    },
+    {
+      "glyphId": 121,
+      "charCode": 185,
+      "advanceWidth": 300,
+      "leftSideBearing": 30,
+      "xMin": 30,
+      "xMax": 301,
+      "yMin": 274,
+      "yMax": 683
+    },
+    {
+      "glyphId": 122,
+      "charCode": 186,
+      "advanceWidth": 300,
+      "leftSideBearing": 56,
+      "xMin": 56,
+      "xMax": 347,
+      "yMin": 400,
+      "yMax": 685
+    },
+    {
+      "glyphId": 123,
+      "charCode": 187,
+      "advanceWidth": 500,
+      "leftSideBearing": 12,
+      "xMin": 12,
+      "xMax": 468,
+      "yMin": 32,
+      "yMax": 415
+    },
+    {
+      "glyphId": 124,
+      "charCode": 188,
+      "advanceWidth": 750,
+      "leftSideBearing": 7,
+      "xMin": 7,
+      "xMax": 721,
+      "yMin": -14,
+      "yMax": 683
+    },
+    {
+      "glyphId": 125,
+      "charCode": 189,
+      "advanceWidth": 750,
+      "leftSideBearing": -9,
+      "xMin": -9,
+      "xMax": 723,
+      "yMin": -14,
+      "yMax": 683
+    },
+    {
+      "glyphId": 126,
+      "charCode": 190,
+      "advanceWidth": 750,
+      "leftSideBearing": 7,
+      "xMin": 7,
+      "xMax": 726,
+      "yMin": -14,
+      "yMax": 683
+    },
+    {
+      "glyphId": 127,
+      "charCode": 191,
+      "advanceWidth": 500,
+      "leftSideBearing": 30,
+      "xMin": 30,
+      "xMax": 421,
+      "yMin": -205,
+      "yMax": 492
+    },
+    {
+      "glyphId": 128,
+      "charCode": 192,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 593,
+      "yMin": 0,
+      "yMax": 947
+    },
+    {
+      "glyphId": 129,
+      "charCode": 193,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 593,
+      "yMin": 0,
+      "yMax": 947
+    },
+    {
+      "glyphId": 130,
+      "charCode": 194,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 593,
+      "yMin": 0,
+      "yMax": 940
+    },
+    {
+      "glyphId": 131,
+      "charCode": 195,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 612,
+      "yMin": 0,
+      "yMax": 905
+    },
+    {
+      "glyphId": 132,
+      "charCode": 196,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 599,
+      "yMin": 0,
+      "yMax": 905
+    },
+    {
+      "glyphId": 133,
+      "charCode": 197,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 593,
+      "yMin": 0,
+      "yMax": 1004
+    },
+    {
+      "glyphId": 134,
+      "charCode": 198,
+      "advanceWidth": 944,
+      "leftSideBearing": -64,
+      "xMin": -64,
+      "xMax": 918,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 135,
+      "charCode": 199,
+      "advanceWidth": 667,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 677,
+      "yMin": -218,
+      "yMax": 685
+    },
+    {
+      "glyphId": 136,
+      "charCode": 200,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": 0,
+      "yMax": 947
+    },
+    {
+      "glyphId": 137,
+      "charCode": 201,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": 0,
+      "yMax": 947
+    },
+    {
+      "glyphId": 138,
+      "charCode": 202,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": 0,
+      "yMax": 940
+    },
+    {
+      "glyphId": 139,
+      "charCode": 203,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": 0,
+      "yMax": 905
+    },
+    {
+      "glyphId": 140,
+      "charCode": 204,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 406,
+      "yMin": 0,
+      "yMax": 947
+    },
+    {
+      "glyphId": 141,
+      "charCode": 205,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 440,
+      "yMin": 0,
+      "yMax": 947
+    },
+    {
+      "glyphId": 142,
+      "charCode": 206,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 469,
+      "yMin": 0,
+      "yMax": 940
+    },
+    {
+      "glyphId": 143,
+      "charCode": 207,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 480,
+      "yMin": 0,
+      "yMax": 905
+    },
+    {
+      "glyphId": 144,
+      "charCode": 208,
+      "advanceWidth": 722,
+      "leftSideBearing": -31,
+      "xMin": -31,
+      "xMax": 700,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 145,
+      "charCode": 209,
+      "advanceWidth": 722,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 748,
+      "yMin": -15,
+      "yMax": 905
+    },
+    {
+      "glyphId": 146,
+      "charCode": 210,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 947
+    },
+    {
+      "glyphId": 147,
+      "charCode": 211,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 947
+    },
+    {
+      "glyphId": 148,
+      "charCode": 212,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 940
+    },
+    {
+      "glyphId": 149,
+      "charCode": 213,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 905
+    },
+    {
+      "glyphId": 150,
+      "charCode": 214,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 905
+    },
+    {
+      "glyphId": 151,
+      "charCode": 215,
+      "advanceWidth": 570,
+      "leftSideBearing": 48,
+      "xMin": 48,
+      "xMax": 522,
+      "yMin": 16,
+      "yMax": 490
+    },
+    {
+      "glyphId": 152,
+      "charCode": 216,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -125,
+      "yMax": 764
+    },
+    {
+      "glyphId": 153,
+      "charCode": 217,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -18,
+      "yMax": 947
+    },
+    {
+      "glyphId": 154,
+      "charCode": 218,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -18,
+      "yMax": 947
+    },
+    {
+      "glyphId": 155,
+      "charCode": 219,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -18,
+      "yMax": 940
+    },
+    {
+      "glyphId": 156,
+      "charCode": 220,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -18,
+      "yMax": 905
+    },
+    {
+      "glyphId": 157,
+      "charCode": 221,
+      "advanceWidth": 611,
+      "leftSideBearing": 71,
+      "xMin": 71,
+      "xMax": 659,
+      "yMin": 0,
+      "yMax": 947
+    },
+    {
+      "glyphId": 158,
+      "charCode": 222,
+      "advanceWidth": 611,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 573,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 159,
+      "charCode": 223,
+      "advanceWidth": 500,
+      "leftSideBearing": -200,
+      "xMin": -200,
+      "xMax": 473,
+      "yMin": -200,
+      "yMax": 705
+    },
+    {
+      "glyphId": 160,
+      "charCode": 224,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 456,
+      "yMin": -14,
+      "yMax": 697
+    },
+    {
+      "glyphId": 161,
+      "charCode": 225,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 456,
+      "yMin": -14,
+      "yMax": 697
+    },
+    {
+      "glyphId": 162,
+      "charCode": 226,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 475,
+      "yMin": -14,
+      "yMax": 690
+    },
+    {
+      "glyphId": 163,
+      "charCode": 227,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 497,
+      "yMin": -14,
+      "yMax": 655
+    },
+    {
+      "glyphId": 164,
+      "charCode": 228,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 485,
+      "yMin": -14,
+      "yMax": 655
+    },
+    {
+      "glyphId": 165,
+      "charCode": 229,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 456,
+      "yMin": -14,
+      "yMax": 756
+    },
+    {
+      "glyphId": 166,
+      "charCode": 230,
+      "advanceWidth": 722,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 673,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 167,
+      "charCode": 231,
+      "advanceWidth": 444,
+      "leftSideBearing": -24,
+      "xMin": -24,
+      "xMax": 392,
+      "yMin": -218,
+      "yMax": 462
+    },
+    {
+      "glyphId": 168,
+      "charCode": 232,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 398,
+      "yMin": -13,
+      "yMax": 697
+    },
+    {
+      "glyphId": 169,
+      "charCode": 233,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 419,
+      "yMin": -13,
+      "yMax": 697
+    },
+    {
+      "glyphId": 170,
+      "charCode": 234,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 462,
+      "yMin": -13,
+      "yMax": 690
+    },
+    {
+      "glyphId": 171,
+      "charCode": 235,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 470,
+      "yMin": -13,
+      "yMax": 655
+    },
+    {
+      "glyphId": 172,
+      "charCode": 236,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 294,
+      "yMin": -9,
+      "yMax": 697
+    },
+    {
+      "glyphId": 173,
+      "charCode": 237,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 310,
+      "yMin": -9,
+      "yMax": 697
+    },
+    {
+      "glyphId": 174,
+      "charCode": 238,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 353,
+      "yMin": -9,
+      "yMax": 690
+    },
+    {
+      "glyphId": 175,
+      "charCode": 239,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 362,
+      "yMin": -9,
+      "yMax": 655
+    },
+    {
+      "glyphId": 176,
+      "charCode": 240,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 454,
+      "yMin": -13,
+      "yMax": 699
+    },
+    {
+      "glyphId": 177,
+      "charCode": 241,
+      "advanceWidth": 556,
+      "leftSideBearing": -6,
+      "xMin": -6,
+      "xMax": 507,
+      "yMin": -9,
+      "yMax": 655
+    },
+    {
+      "glyphId": 178,
+      "charCode": 242,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 441,
+      "yMin": -13,
+      "yMax": 697
+    },
+    {
+      "glyphId": 179,
+      "charCode": 243,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 441,
+      "yMin": -13,
+      "yMax": 697
+    },
+    {
+      "glyphId": 180,
+      "charCode": 244,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 462,
+      "yMin": -13,
+      "yMax": 690
+    },
+    {
+      "glyphId": 181,
+      "charCode": 245,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 485,
+      "yMin": -13,
+      "yMax": 655
+    },
+    {
+      "glyphId": 182,
+      "charCode": 246,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 470,
+      "yMin": -13,
+      "yMax": 655
+    },
+    {
+      "glyphId": 183,
+      "charCode": 247,
+      "advanceWidth": 570,
+      "leftSideBearing": 33,
+      "xMin": 33,
+      "xMax": 537,
+      "yMin": -29,
+      "yMax": 535
+    },
+    {
+      "glyphId": 184,
+      "charCode": 248,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 441,
+      "yMin": -119,
+      "yMax": 560
+    },
+    {
+      "glyphId": 185,
+      "charCode": 249,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 493,
+      "yMin": -9,
+      "yMax": 697
+    },
+    {
+      "glyphId": 186,
+      "charCode": 250,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 493,
+      "yMin": -9,
+      "yMax": 697
+    },
+    {
+      "glyphId": 187,
+      "charCode": 251,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 493,
+      "yMin": -9,
+      "yMax": 690
+    },
+    {
+      "glyphId": 188,
+      "charCode": 252,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 493,
+      "yMin": -9,
+      "yMax": 655
+    },
+    {
+      "glyphId": 189,
+      "charCode": 253,
+      "advanceWidth": 444,
+      "leftSideBearing": -94,
+      "xMin": -94,
+      "xMax": 401,
+      "yMin": -205,
+      "yMax": 697
+    },
+    {
+      "glyphId": 190,
+      "charCode": 254,
+      "advanceWidth": 500,
+      "leftSideBearing": -120,
+      "xMin": -120,
+      "xMax": 446,
+      "yMin": -205,
+      "yMax": 699
+    },
+    {
+      "glyphId": 191,
+      "charCode": 255,
+      "advanceWidth": 444,
+      "leftSideBearing": -94,
+      "xMin": -94,
+      "xMax": 460,
+      "yMin": -205,
+      "yMax": 655
+    },
+    {
+      "glyphId": 192,
+      "charCode": 256,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 593,
+      "yMin": 0,
+      "yMax": 793
+    },
+    {
+      "glyphId": 193,
+      "charCode": 257,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 486,
+      "yMin": -14,
+      "yMax": 586
+    },
+    {
+      "glyphId": 194,
+      "charCode": 258,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 593,
+      "yMin": 0,
+      "yMax": 885
+    },
+    {
+      "glyphId": 195,
+      "charCode": 259,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 483,
+      "yMin": -14,
+      "yMax": 678
+    },
+    {
+      "glyphId": 196,
+      "charCode": 260,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 640,
+      "yMin": -173,
+      "yMax": 683
+    },
+    {
+      "glyphId": 197,
+      "charCode": 261,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 507,
+      "yMin": -173,
+      "yMax": 462
+    },
+    {
+      "glyphId": 198,
+      "charCode": 262,
+      "advanceWidth": 667,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 677,
+      "yMin": -18,
+      "yMax": 904
+    },
+    {
+      "glyphId": 199,
+      "charCode": 263,
+      "advanceWidth": 444,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 392,
+      "yMin": -13,
+      "yMax": 697
+    },
+    {
+      "glyphId": 200,
+      "charCode": 264,
+      "advanceWidth": 667,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 677,
+      "yMin": -18,
+      "yMax": 897
+    },
+    {
+      "glyphId": 201,
+      "charCode": 265,
+      "advanceWidth": 444,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 415,
+      "yMin": -13,
+      "yMax": 690
+    },
+    {
+      "glyphId": 202,
+      "charCode": 266,
+      "advanceWidth": 667,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 677,
+      "yMin": -18,
+      "yMax": 862
+    },
+    {
+      "glyphId": 203,
+      "charCode": 267,
+      "advanceWidth": 444,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 392,
+      "yMin": -13,
+      "yMax": 655
+    },
+    {
+      "glyphId": 204,
+      "charCode": 268,
+      "advanceWidth": 667,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 677,
+      "yMin": -18,
+      "yMax": 897
+    },
+    {
+      "glyphId": 205,
+      "charCode": 269,
+      "advanceWidth": 444,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 437,
+      "yMin": -13,
+      "yMax": 690
+    },
+    {
+      "glyphId": 206,
+      "charCode": 270,
+      "advanceWidth": 722,
+      "leftSideBearing": -46,
+      "xMin": -46,
+      "xMax": 685,
+      "yMin": 0,
+      "yMax": 897
+    },
+    {
+      "glyphId": 207,
+      "charCode": 271,
+      "advanceWidth": 658,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 726,
+      "yMin": -13,
+      "yMax": 710
+    },
+    {
+      "glyphId": 208,
+      "charCode": 272,
+      "advanceWidth": 722,
+      "leftSideBearing": -31,
+      "xMin": -31,
+      "xMax": 700,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 209,
+      "charCode": 273,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 541,
+      "yMin": -13,
+      "yMax": 699
+    },
+    {
+      "glyphId": 210,
+      "charCode": 274,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": 0,
+      "yMax": 793
+    },
+    {
+      "glyphId": 211,
+      "charCode": 275,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 431,
+      "yMin": -13,
+      "yMax": 586
+    },
+    {
+      "glyphId": 212,
+      "charCode": 276,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": 0,
+      "yMax": 885
+    },
+    {
+      "glyphId": 213,
+      "charCode": 277,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 478,
+      "yMin": -13,
+      "yMax": 678
+    },
+    {
+      "glyphId": 214,
+      "charCode": 278,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": 0,
+      "yMax": 862
+    },
+    {
+      "glyphId": 215,
+      "charCode": 279,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 398,
+      "yMin": -13,
+      "yMax": 655
+    },
+    {
+      "glyphId": 216,
+      "charCode": 280,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": -182,
+      "yMax": 669
+    },
+    {
+      "glyphId": 217,
+      "charCode": 281,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 398,
+      "yMin": -182,
+      "yMax": 462
+    },
+    {
+      "glyphId": 218,
+      "charCode": 282,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": 0,
+      "yMax": 897
+    },
+    {
+      "glyphId": 219,
+      "charCode": 283,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 486,
+      "yMin": -13,
+      "yMax": 690
+    },
+    {
+      "glyphId": 220,
+      "charCode": 284,
+      "advanceWidth": 722,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 705,
+      "yMin": -18,
+      "yMax": 897
+    },
+    {
+      "glyphId": 221,
+      "charCode": 285,
+      "advanceWidth": 500,
+      "leftSideBearing": -52,
+      "xMin": -52,
+      "xMax": 477,
+      "yMin": -203,
+      "yMax": 690
+    },
+    {
+      "glyphId": 222,
+      "charCode": 286,
+      "advanceWidth": 722,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 705,
+      "yMin": -18,
+      "yMax": 885
+    },
+    {
+      "glyphId": 223,
+      "charCode": 287,
+      "advanceWidth": 500,
+      "leftSideBearing": -52,
+      "xMin": -52,
+      "xMax": 477,
+      "yMin": -203,
+      "yMax": 678
+    },
+    {
+      "glyphId": 224,
+      "charCode": 288,
+      "advanceWidth": 722,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 705,
+      "yMin": -18,
+      "yMax": 862
+    },
+    {
+      "glyphId": 225,
+      "charCode": 289,
+      "advanceWidth": 500,
+      "leftSideBearing": -52,
+      "xMin": -52,
+      "xMax": 477,
+      "yMin": -203,
+      "yMax": 655
+    },
+    {
+      "glyphId": 226,
+      "charCode": 290,
+      "advanceWidth": 722,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 705,
+      "yMin": -359,
+      "yMax": 685
+    },
+    {
+      "glyphId": 227,
+      "charCode": 291,
+      "advanceWidth": 500,
+      "leftSideBearing": -52,
+      "xMin": -52,
+      "xMax": 477,
+      "yMin": -203,
+      "yMax": 832
+    },
+    {
+      "glyphId": 228,
+      "charCode": 292,
+      "advanceWidth": 778,
+      "leftSideBearing": -24,
+      "xMin": -24,
+      "xMax": 799,
+      "yMin": 0,
+      "yMax": 897
+    },
+    {
+      "glyphId": 229,
+      "charCode": 293,
+      "advanceWidth": 556,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 498,
+      "yMin": -9,
+      "yMax": 897
+    },
+    {
+      "glyphId": 230,
+      "charCode": 294,
+      "advanceWidth": 778,
+      "leftSideBearing": -24,
+      "xMin": -24,
+      "xMax": 800,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 231,
+      "charCode": 295,
+      "advanceWidth": 556,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 498,
+      "yMin": -9,
+      "yMax": 699
+    },
+    {
+      "glyphId": 232,
+      "charCode": 296,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 470,
+      "yMin": 0,
+      "yMax": 862
+    },
+    {
+      "glyphId": 233,
+      "charCode": 297,
+      "advanceWidth": 278,
+      "leftSideBearing": -9,
+      "xMin": -9,
+      "xMax": 350,
+      "yMin": -9,
+      "yMax": 655
+    },
+    {
+      "glyphId": 234,
+      "charCode": 298,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 451,
+      "yMin": 0,
+      "yMax": 793
+    },
+    {
+      "glyphId": 235,
+      "charCode": 299,
+      "advanceWidth": 278,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 331,
+      "yMin": -9,
+      "yMax": 586
+    },
+    {
+      "glyphId": 236,
+      "charCode": 300,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 458,
+      "yMin": 0,
+      "yMax": 885
+    },
+    {
+      "glyphId": 237,
+      "charCode": 301,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 328,
+      "yMin": -9,
+      "yMax": 678
+    },
+    {
+      "glyphId": 238,
+      "charCode": 302,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 406,
+      "yMin": -173,
+      "yMax": 669
+    },
+    {
+      "glyphId": 239,
+      "charCode": 303,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 262,
+      "yMin": -173,
+      "yMax": 684
+    },
+    {
+      "glyphId": 240,
+      "charCode": 304,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 406,
+      "yMin": 0,
+      "yMax": 862
+    },
+    {
+      "glyphId": 241,
+      "charCode": 305,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 238,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 242,
+      "charCode": 306,
+      "advanceWidth": 823,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 913,
+      "yMin": -99,
+      "yMax": 669
+    },
+    {
+      "glyphId": 243,
+      "charCode": 307,
+      "advanceWidth": 552,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 544,
+      "yMin": -207,
+      "yMax": 685
+    },
+    {
+      "glyphId": 244,
+      "charCode": 308,
+      "advanceWidth": 500,
+      "leftSideBearing": -46,
+      "xMin": -46,
+      "xMax": 554,
+      "yMin": -99,
+      "yMax": 897
+    },
+    {
+      "glyphId": 245,
+      "charCode": 309,
+      "advanceWidth": 278,
+      "leftSideBearing": -189,
+      "xMin": -189,
+      "xMax": 314,
+      "yMin": -207,
+      "yMax": 690
+    },
+    {
+      "glyphId": 246,
+      "charCode": 310,
+      "advanceWidth": 667,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 702,
+      "yMin": -359,
+      "yMax": 669
+    },
+    {
+      "glyphId": 247,
+      "charCode": 311,
+      "advanceWidth": 500,
+      "leftSideBearing": -23,
+      "xMin": -23,
+      "xMax": 483,
+      "yMin": -359,
+      "yMax": 699
+    },
+    {
+      "glyphId": 248,
+      "charCode": 312,
+      "advanceWidth": 600,
+      "leftSideBearing": 6,
+      "xMin": 6,
+      "xMax": 689,
+      "yMin": 0,
+      "yMax": 470
+    },
+    {
+      "glyphId": 249,
+      "charCode": 313,
+      "advanceWidth": 611,
+      "leftSideBearing": -22,
+      "xMin": -22,
+      "xMax": 590,
+      "yMin": 0,
+      "yMax": 904
+    },
+    {
+      "glyphId": 250,
+      "charCode": 314,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 344,
+      "yMin": -9,
+      "yMax": 904
+    },
+    {
+      "glyphId": 251,
+      "charCode": 315,
+      "advanceWidth": 611,
+      "leftSideBearing": -22,
+      "xMin": -22,
+      "xMax": 590,
+      "yMin": -359,
+      "yMax": 669
+    },
+    {
+      "glyphId": 252,
+      "charCode": 316,
+      "advanceWidth": 278,
+      "leftSideBearing": -62,
+      "xMin": -62,
+      "xMax": 290,
+      "yMin": -359,
+      "yMax": 699
+    },
+    {
+      "glyphId": 253,
+      "charCode": 317,
+      "advanceWidth": 611,
+      "leftSideBearing": -22,
+      "xMin": -22,
+      "xMax": 667,
+      "yMin": 0,
+      "yMax": 685
+    },
+    {
+      "glyphId": 254,
+      "charCode": 318,
+      "advanceWidth": 451,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 499,
+      "yMin": -9,
+      "yMax": 710
+    },
+    {
+      "glyphId": 255,
+      "charCode": 319,
+      "advanceWidth": 611,
+      "leftSideBearing": -22,
+      "xMin": -22,
+      "xMax": 590,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 256,
+      "charCode": 320,
+      "advanceWidth": 375,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 382,
+      "yMin": -9,
+      "yMax": 699
+    },
+    {
+      "glyphId": 257,
+      "charCode": 321,
+      "advanceWidth": 611,
+      "leftSideBearing": -22,
+      "xMin": -22,
+      "xMax": 590,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 258,
+      "charCode": 322,
+      "advanceWidth": 278,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 301,
+      "yMin": -9,
+      "yMax": 699
+    },
+    {
+      "glyphId": 259,
+      "charCode": 323,
+      "advanceWidth": 722,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 748,
+      "yMin": -15,
+      "yMax": 904
+    },
+    {
+      "glyphId": 260,
+      "charCode": 324,
+      "advanceWidth": 556,
+      "leftSideBearing": -6,
+      "xMin": -6,
+      "xMax": 494,
+      "yMin": -9,
+      "yMax": 697
+    },
+    {
+      "glyphId": 261,
+      "charCode": 325,
+      "advanceWidth": 722,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 748,
+      "yMin": -359,
+      "yMax": 669
+    },
+    {
+      "glyphId": 262,
+      "charCode": 326,
+      "advanceWidth": 556,
+      "leftSideBearing": -6,
+      "xMin": -6,
+      "xMax": 494,
+      "yMin": -359,
+      "yMax": 462
+    },
+    {
+      "glyphId": 263,
+      "charCode": 327,
+      "advanceWidth": 722,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 748,
+      "yMin": -15,
+      "yMax": 897
+    },
+    {
+      "glyphId": 264,
+      "charCode": 328,
+      "advanceWidth": 556,
+      "leftSideBearing": -6,
+      "xMin": -6,
+      "xMax": 506,
+      "yMin": -9,
+      "yMax": 690
+    },
+    {
+      "glyphId": 265,
+      "charCode": 329,
+      "advanceWidth": 700,
+      "leftSideBearing": 42,
+      "xMin": 42,
+      "xMax": 657,
+      "yMin": -9,
+      "yMax": 710
+    },
+    {
+      "glyphId": 266,
+      "charCode": 330,
+      "advanceWidth": 722,
+      "leftSideBearing": -46,
+      "xMin": -46,
+      "xMax": 685,
+      "yMin": -203,
+      "yMax": 669
+    },
+    {
+      "glyphId": 267,
+      "charCode": 331,
+      "advanceWidth": 543,
+      "leftSideBearing": -6,
+      "xMin": -6,
+      "xMax": 474,
+      "yMin": -207,
+      "yMax": 462
+    },
+    {
+      "glyphId": 268,
+      "charCode": 332,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 793
+    },
+    {
+      "glyphId": 269,
+      "charCode": 333,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 461,
+      "yMin": -13,
+      "yMax": 586
+    },
+    {
+      "glyphId": 270,
+      "charCode": 334,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 885
+    },
+    {
+      "glyphId": 271,
+      "charCode": 335,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 488,
+      "yMin": -13,
+      "yMax": 678
+    },
+    {
+      "glyphId": 272,
+      "charCode": 336,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 700,
+      "yMin": -18,
+      "yMax": 904
+    },
+    {
+      "glyphId": 273,
+      "charCode": 337,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 519,
+      "yMin": -13,
+      "yMax": 697
+    },
+    {
+      "glyphId": 274,
+      "charCode": 338,
+      "advanceWidth": 944,
+      "leftSideBearing": 23,
+      "xMin": 23,
+      "xMax": 946,
+      "yMin": -8,
+      "yMax": 677
+    },
+    {
+      "glyphId": 275,
+      "charCode": 339,
+      "advanceWidth": 722,
+      "leftSideBearing": 6,
+      "xMin": 6,
+      "xMax": 674,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 276,
+      "charCode": 340,
+      "advanceWidth": 667,
+      "leftSideBearing": -28,
+      "xMin": -28,
+      "xMax": 623,
+      "yMin": 0,
+      "yMax": 904
+    },
+    {
+      "glyphId": 277,
+      "charCode": 341,
+      "advanceWidth": 389,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 389,
+      "yMin": 0,
+      "yMax": 697
+    },
+    {
+      "glyphId": 278,
+      "charCode": 342,
+      "advanceWidth": 667,
+      "leftSideBearing": -28,
+      "xMin": -28,
+      "xMax": 623,
+      "yMin": -359,
+      "yMax": 669
+    },
+    {
+      "glyphId": 279,
+      "charCode": 343,
+      "advanceWidth": 389,
+      "leftSideBearing": -102,
+      "xMin": -102,
+      "xMax": 389,
+      "yMin": -359,
+      "yMax": 462
+    },
+    {
+      "glyphId": 280,
+      "charCode": 344,
+      "advanceWidth": 667,
+      "leftSideBearing": -28,
+      "xMin": -28,
+      "xMax": 623,
+      "yMin": 0,
+      "yMax": 897
+    },
+    {
+      "glyphId": 281,
+      "charCode": 345,
+      "advanceWidth": 389,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 411,
+      "yMin": 0,
+      "yMax": 690
+    },
+    {
+      "glyphId": 282,
+      "charCode": 346,
+      "advanceWidth": 556,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 526,
+      "yMin": -18,
+      "yMax": 904
+    },
+    {
+      "glyphId": 283,
+      "charCode": 347,
+      "advanceWidth": 389,
+      "leftSideBearing": -19,
+      "xMin": -19,
+      "xMax": 379,
+      "yMin": -13,
+      "yMax": 697
+    },
+    {
+      "glyphId": 284,
+      "charCode": 348,
+      "advanceWidth": 556,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 526,
+      "yMin": -18,
+      "yMax": 897
+    },
+    {
+      "glyphId": 285,
+      "charCode": 349,
+      "advanceWidth": 389,
+      "leftSideBearing": -19,
+      "xMin": -19,
+      "xMax": 367,
+      "yMin": -13,
+      "yMax": 690
+    },
+    {
+      "glyphId": 286,
+      "charCode": 350,
+      "advanceWidth": 556,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 526,
+      "yMin": -218,
+      "yMax": 685
+    },
+    {
+      "glyphId": 287,
+      "charCode": 351,
+      "advanceWidth": 389,
+      "leftSideBearing": -19,
+      "xMin": -19,
+      "xMax": 333,
+      "yMin": -218,
+      "yMax": 462
+    },
+    {
+      "glyphId": 288,
+      "charCode": 352,
+      "advanceWidth": 556,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 526,
+      "yMin": -18,
+      "yMax": 897
+    },
+    {
+      "glyphId": 289,
+      "charCode": 353,
+      "advanceWidth": 389,
+      "leftSideBearing": -19,
+      "xMin": -19,
+      "xMax": 411,
+      "yMin": -13,
+      "yMax": 690
+    },
+    {
+      "glyphId": 290,
+      "charCode": 354,
+      "advanceWidth": 611,
+      "leftSideBearing": 49,
+      "xMin": 49,
+      "xMax": 650,
+      "yMin": -218,
+      "yMax": 669
+    },
+    {
+      "glyphId": 291,
+      "charCode": 355,
+      "advanceWidth": 278,
+      "leftSideBearing": -75,
+      "xMin": -75,
+      "xMax": 289,
+      "yMin": -218,
+      "yMax": 594
+    },
+    {
+      "glyphId": 292,
+      "charCode": 356,
+      "advanceWidth": 611,
+      "leftSideBearing": 49,
+      "xMin": 49,
+      "xMax": 650,
+      "yMin": 0,
+      "yMax": 897
+    },
+    {
+      "glyphId": 293,
+      "charCode": 357,
+      "advanceWidth": 411,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 499,
+      "yMin": -9,
+      "yMax": 710
+    },
+    {
+      "glyphId": 294,
+      "charCode": 358,
+      "advanceWidth": 611,
+      "leftSideBearing": 49,
+      "xMin": 49,
+      "xMax": 650,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 295,
+      "charCode": 359,
+      "advanceWidth": 278,
+      "leftSideBearing": -30,
+      "xMin": -30,
+      "xMax": 281,
+      "yMin": -9,
+      "yMax": 594
+    },
+    {
+      "glyphId": 296,
+      "charCode": 360,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -18,
+      "yMax": 841
+    },
+    {
+      "glyphId": 297,
+      "charCode": 361,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 493,
+      "yMin": -9,
+      "yMax": 655
+    },
+    {
+      "glyphId": 298,
+      "charCode": 362,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -18,
+      "yMax": 793
+    },
+    {
+      "glyphId": 299,
+      "charCode": 363,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 493,
+      "yMin": -9,
+      "yMax": 586
+    },
+    {
+      "glyphId": 300,
+      "charCode": 364,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -18,
+      "yMax": 885
+    },
+    {
+      "glyphId": 301,
+      "charCode": 365,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 493,
+      "yMin": -9,
+      "yMax": 678
+    },
+    {
+      "glyphId": 302,
+      "charCode": 366,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -18,
+      "yMax": 921
+    },
+    {
+      "glyphId": 303,
+      "charCode": 367,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 493,
+      "yMin": -9,
+      "yMax": 729
+    },
+    {
+      "glyphId": 304,
+      "charCode": 368,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -18,
+      "yMax": 889
+    },
+    {
+      "glyphId": 305,
+      "charCode": 369,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 527,
+      "yMin": -9,
+      "yMax": 697
+    },
+    {
+      "glyphId": 306,
+      "charCode": 370,
+      "advanceWidth": 722,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 744,
+      "yMin": -173,
+      "yMax": 669
+    },
+    {
+      "glyphId": 307,
+      "charCode": 371,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 531,
+      "yMin": -173,
+      "yMax": 462
+    },
+    {
+      "glyphId": 308,
+      "charCode": 372,
+      "advanceWidth": 889,
+      "leftSideBearing": 64,
+      "xMin": 64,
+      "xMax": 940,
+      "yMin": -18,
+      "yMax": 897
+    },
+    {
+      "glyphId": 309,
+      "charCode": 373,
+      "advanceWidth": 667,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 614,
+      "yMin": -13,
+      "yMax": 690
+    },
+    {
+      "glyphId": 310,
+      "charCode": 374,
+      "advanceWidth": 611,
+      "leftSideBearing": 71,
+      "xMin": 71,
+      "xMax": 659,
+      "yMin": 0,
+      "yMax": 897
+    },
+    {
+      "glyphId": 311,
+      "charCode": 375,
+      "advanceWidth": 444,
+      "leftSideBearing": -94,
+      "xMin": -94,
+      "xMax": 393,
+      "yMin": -205,
+      "yMax": 690
+    },
+    {
+      "glyphId": 312,
+      "charCode": 376,
+      "advanceWidth": 611,
+      "leftSideBearing": 71,
+      "xMin": 71,
+      "xMax": 659,
+      "yMin": 0,
+      "yMax": 862
+    },
+    {
+      "glyphId": 313,
+      "charCode": 377,
+      "advanceWidth": 611,
+      "leftSideBearing": -12,
+      "xMin": -12,
+      "xMax": 589,
+      "yMin": 0,
+      "yMax": 904
+    },
+    {
+      "glyphId": 314,
+      "charCode": 378,
+      "advanceWidth": 389,
+      "leftSideBearing": -43,
+      "xMin": -43,
+      "xMax": 379,
+      "yMin": -78,
+      "yMax": 697
+    },
+    {
+      "glyphId": 315,
+      "charCode": 379,
+      "advanceWidth": 611,
+      "leftSideBearing": -12,
+      "xMin": -12,
+      "xMax": 589,
+      "yMin": 0,
+      "yMax": 862
+    },
+    {
+      "glyphId": 316,
+      "charCode": 380,
+      "advanceWidth": 389,
+      "leftSideBearing": -43,
+      "xMin": -43,
+      "xMax": 368,
+      "yMin": -78,
+      "yMax": 655
+    },
+    {
+      "glyphId": 317,
+      "charCode": 381,
+      "advanceWidth": 611,
+      "leftSideBearing": -12,
+      "xMin": -12,
+      "xMax": 589,
+      "yMin": 0,
+      "yMax": 897
+    },
+    {
+      "glyphId": 318,
+      "charCode": 382,
+      "advanceWidth": 389,
+      "leftSideBearing": -43,
+      "xMin": -43,
+      "xMax": 411,
+      "yMin": -78,
+      "yMax": 690
+    },
+    {
+      "glyphId": 319,
+      "charCode": 383,
+      "advanceWidth": 333,
+      "leftSideBearing": 14,
+      "xMin": 14,
+      "xMax": 536,
+      "yMin": 0,
+      "yMax": 691
+    },
+    {
+      "glyphId": 320,
+      "charCode": 384,
+      "advanceWidth": 500,
+      "leftSideBearing": -14,
+      "xMin": -14,
+      "xMax": 444,
+      "yMin": -13,
+      "yMax": 699
+    },
+    {
+      "glyphId": 321,
+      "charCode": 392,
+      "advanceWidth": 560,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 627,
+      "yMin": -13,
+      "yMax": 576
+    },
+    {
+      "glyphId": 322,
+      "charCode": 400,
+      "advanceWidth": 512,
+      "leftSideBearing": 54,
+      "xMin": 54,
+      "xMax": 676,
+      "yMin": -4,
+      "yMax": 686
+    },
+    {
+      "glyphId": 323,
+      "charCode": 402,
+      "advanceWidth": 500,
+      "leftSideBearing": -87,
+      "xMin": -87,
+      "xMax": 537,
+      "yMin": -156,
+      "yMax": 707
+    },
+    {
+      "glyphId": 324,
+      "charCode": 405,
+      "advanceWidth": 735,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 692,
+      "yMin": -10,
+      "yMax": 699
+    },
+    {
+      "glyphId": 325,
+      "charCode": 409,
+      "advanceWidth": 500,
+      "leftSideBearing": -23,
+      "xMin": -23,
+      "xMax": 483,
+      "yMin": -8,
+      "yMax": 691
+    },
+    {
+      "glyphId": 326,
+      "charCode": 410,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 290,
+      "yMin": -9,
+      "yMax": 699
+    },
+    {
+      "glyphId": 327,
+      "charCode": 411,
+      "advanceWidth": 480,
+      "leftSideBearing": 16,
+      "xMin": 16,
+      "xMax": 452,
+      "yMin": 0,
+      "yMax": 666
+    },
+    {
+      "glyphId": 328,
+      "charCode": 414,
+      "advanceWidth": 536,
+      "leftSideBearing": -6,
+      "xMin": -6,
+      "xMax": 474,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 329,
+      "charCode": 416,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 806,
+      "yMin": -18,
+      "yMax": 716
+    },
+    {
+      "glyphId": 330,
+      "charCode": 417,
+      "advanceWidth": 537,
+      "leftSideBearing": 24,
+      "xMin": 24,
+      "xMax": 595,
+      "yMin": -13,
+      "yMax": 507
+    },
+    {
+      "glyphId": 331,
+      "charCode": 421,
+      "advanceWidth": 520,
+      "leftSideBearing": -100,
+      "xMin": -100,
+      "xMax": 466,
+      "yMin": -205,
+      "yMax": 673
+    },
+    {
+      "glyphId": 332,
+      "charCode": 426,
+      "advanceWidth": 400,
+      "leftSideBearing": 46,
+      "xMin": 46,
+      "xMax": 380,
+      "yMin": -233,
+      "yMax": 684
+    },
+    {
+      "glyphId": 333,
+      "charCode": 427,
+      "advanceWidth": 286,
+      "leftSideBearing": -49,
+      "xMin": -49,
+      "xMax": 289,
+      "yMin": -218,
+      "yMax": 594
+    },
+    {
+      "glyphId": 334,
+      "charCode": 429,
+      "advanceWidth": 360,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 450,
+      "yMin": -9,
+      "yMax": 691
+    },
+    {
+      "glyphId": 335,
+      "charCode": 431,
+      "advanceWidth": 775,
+      "leftSideBearing": 67,
+      "xMin": 67,
+      "xMax": 893,
+      "yMin": -18,
+      "yMax": 803
+    },
+    {
+      "glyphId": 336,
+      "charCode": 432,
+      "advanceWidth": 556,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 656,
+      "yMin": -9,
+      "yMax": 583
+    },
+    {
+      "glyphId": 337,
+      "charCode": 442,
+      "advanceWidth": 496,
+      "leftSideBearing": -52,
+      "xMin": -52,
+      "xMax": 458,
+      "yMin": -237,
+      "yMax": 450
+    },
+    {
+      "glyphId": 338,
+      "charCode": 443,
+      "advanceWidth": 500,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 469,
+      "yMin": 0,
+      "yMax": 683
+    },
+    {
+      "glyphId": 339,
+      "charCode": 446,
+      "advanceWidth": 500,
+      "leftSideBearing": 37,
+      "xMin": 37,
+      "xMax": 463,
+      "yMin": -10,
+      "yMax": 541
+    },
+    {
+      "glyphId": 340,
+      "charCode": 448,
+      "advanceWidth": 208,
+      "leftSideBearing": 14,
+      "xMin": 14,
+      "xMax": 278,
+      "yMin": 0,
+      "yMax": 740
+    },
+    {
+      "glyphId": 341,
+      "charCode": 449,
+      "advanceWidth": 345,
+      "leftSideBearing": 14,
+      "xMin": 14,
+      "xMax": 415,
+      "yMin": 0,
+      "yMax": 740
+    },
+    {
+      "glyphId": 342,
+      "charCode": 450,
+      "advanceWidth": 368,
+      "leftSideBearing": 14,
+      "xMin": 14,
+      "xMax": 438,
+      "yMin": 0,
+      "yMax": 740
+    },
+    {
+      "glyphId": 343,
+      "charCode": 451,
+      "advanceWidth": 300,
+      "leftSideBearing": 45,
+      "xMin": 45,
+      "xMax": 355,
+      "yMin": -13,
+      "yMax": 684
+    },
+    {
+      "glyphId": 344,
+      "charCode": 496,
+      "advanceWidth": 350,
+      "leftSideBearing": -104,
+      "xMin": -104,
+      "xMax": 474,
+      "yMin": -207,
+      "yMax": 690
+    },
+    {
+      "glyphId": 345,
+      "charCode": 506,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 593,
+      "yMin": 0,
+      "yMax": 972
+    },
+    {
+      "glyphId": 346,
+      "charCode": 507,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 456,
+      "yMin": -14,
+      "yMax": 909
+    },
+    {
+      "glyphId": 347,
+      "charCode": 508,
+      "advanceWidth": 944,
+      "leftSideBearing": -64,
+      "xMin": -64,
+      "xMax": 918,
+      "yMin": 0,
+      "yMax": 904
+    },
+    {
+      "glyphId": 348,
+      "charCode": 509,
+      "advanceWidth": 722,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 673,
+      "yMin": -13,
+      "yMax": 697
+    },
+    {
+      "glyphId": 349,
+      "charCode": 510,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -125,
+      "yMax": 904
+    },
+    {
+      "glyphId": 350,
+      "charCode": 511,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 441,
+      "yMin": -119,
+      "yMax": 697
+    },
+    {
+      "glyphId": 351,
+      "charCode": 567,
+      "advanceWidth": 278,
+      "leftSideBearing": -189,
+      "xMin": -189,
+      "xMax": 239,
+      "yMin": -207,
+      "yMax": 462
+    },
+    {
+      "glyphId": 352,
+      "charCode": 592,
+      "advanceWidth": 512,
+      "leftSideBearing": 13,
+      "xMin": 13,
+      "xMax": 492,
+      "yMin": -14,
+      "yMax": 473
+    },
+    {
+      "glyphId": 353,
+      "charCode": 593,
+      "advanceWidth": 612,
+      "leftSideBearing": 25,
+      "xMin": 25,
+      "xMax": 592,
+      "yMin": -14,
+      "yMax": 473
+    },
+    {
+      "glyphId": 354,
+      "charCode": 594,
+      "advanceWidth": 612,
+      "leftSideBearing": 25,
+      "xMin": 25,
+      "xMax": 592,
+      "yMin": -14,
+      "yMax": 473
+    },
+    {
+      "glyphId": 355,
+      "charCode": 595,
+      "advanceWidth": 500,
+      "leftSideBearing": -14,
+      "xMin": -14,
+      "xMax": 449,
+      "yMin": -13,
+      "yMax": 691
+    },
+    {
+      "glyphId": 356,
+      "charCode": 596,
+      "advanceWidth": 444,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 392,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 357,
+      "charCode": 597,
+      "advanceWidth": 444,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 406,
+      "yMin": -157,
+      "yMax": 462
+    },
+    {
+      "glyphId": 358,
+      "charCode": 598,
+      "advanceWidth": 500,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 517,
+      "yMin": -233,
+      "yMax": 699
+    },
+    {
+      "glyphId": 359,
+      "charCode": 599,
+      "advanceWidth": 570,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 653,
+      "yMin": -13,
+      "yMax": 683
+    },
+    {
+      "glyphId": 360,
+      "charCode": 600,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 421,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 361,
+      "charCode": 601,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 398,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 362,
+      "charCode": 602,
+      "advanceWidth": 626,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 626,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 363,
+      "charCode": 603,
+      "advanceWidth": 444,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 482,
+      "yMin": -14,
+      "yMax": 475
+    },
+    {
+      "glyphId": 364,
+      "charCode": 604,
+      "advanceWidth": 480,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 469,
+      "yMin": -14,
+      "yMax": 475
+    },
+    {
+      "glyphId": 365,
+      "charCode": 605,
+      "advanceWidth": 689,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 689,
+      "yMin": -14,
+      "yMax": 475
+    },
+    {
+      "glyphId": 366,
+      "charCode": 606,
+      "advanceWidth": 486,
+      "leftSideBearing": 7,
+      "xMin": 7,
+      "xMax": 475,
+      "yMin": -14,
+      "yMax": 475
+    },
+    {
+      "glyphId": 367,
+      "charCode": 607,
+      "advanceWidth": 367,
+      "leftSideBearing": -100,
+      "xMin": -100,
+      "xMax": 364,
+      "yMin": -207,
+      "yMax": 462
+    },
+    {
+      "glyphId": 368,
+      "charCode": 608,
+      "advanceWidth": 720,
+      "leftSideBearing": -52,
+      "xMin": -52,
+      "xMax": 751,
+      "yMin": -245,
+      "yMax": 683
+    },
+    {
+      "glyphId": 369,
+      "charCode": 609,
+      "advanceWidth": 549,
+      "leftSideBearing": -52,
+      "xMin": -52,
+      "xMax": 520,
+      "yMin": -245,
+      "yMax": 472
+    },
+    {
+      "glyphId": 370,
+      "charCode": 610,
+      "advanceWidth": 561,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 544,
+      "yMin": -11,
+      "yMax": 462
+    },
+    {
+      "glyphId": 371,
+      "charCode": 611,
+      "advanceWidth": 444,
+      "leftSideBearing": 20,
+      "xMin": 20,
+      "xMax": 400,
+      "yMin": -234,
+      "yMax": 462
+    },
+    {
+      "glyphId": 372,
+      "charCode": 612,
+      "advanceWidth": 493,
+      "leftSideBearing": 10,
+      "xMin": 10,
+      "xMax": 488,
+      "yMin": -10,
+      "yMax": 450
+    },
+    {
+      "glyphId": 373,
+      "charCode": 613,
+      "advanceWidth": 556,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 498,
+      "yMin": -249,
+      "yMax": 459
+    },
+    {
+      "glyphId": 374,
+      "charCode": 614,
+      "advanceWidth": 556,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 498,
+      "yMin": -9,
+      "yMax": 683
+    },
+    {
+      "glyphId": 375,
+      "charCode": 615,
+      "advanceWidth": 533,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 475,
+      "yMin": -205,
+      "yMax": 683
+    },
+    {
+      "glyphId": 376,
+      "charCode": 616,
+      "advanceWidth": 278,
+      "leftSideBearing": -10,
+      "xMin": -10,
+      "xMax": 262,
+      "yMin": -9,
+      "yMax": 684
+    },
+    {
+      "glyphId": 377,
+      "charCode": 617,
+      "advanceWidth": 253,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 237,
+      "yMin": -8,
+      "yMax": 456
+    },
+    {
+      "glyphId": 378,
+      "charCode": 618,
+      "advanceWidth": 304,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 321,
+      "yMin": 0,
+      "yMax": 462
+    },
+    {
+      "glyphId": 379,
+      "charCode": 619,
+      "advanceWidth": 320,
+      "leftSideBearing": 9,
+      "xMin": 9,
+      "xMax": 368,
+      "yMin": -9,
+      "yMax": 699
+    },
+    {
+      "glyphId": 380,
+      "charCode": 620,
+      "advanceWidth": 445,
+      "leftSideBearing": 17,
+      "xMin": 17,
+      "xMax": 417,
+      "yMin": -9,
+      "yMax": 699
+    },
+    {
+      "glyphId": 381,
+      "charCode": 621,
+      "advanceWidth": 291,
+      "leftSideBearing": -47,
+      "xMin": -47,
+      "xMax": 290,
+      "yMin": -233,
+      "yMax": 699
+    },
+    {
+      "glyphId": 382,
+      "charCode": 622,
+      "advanceWidth": 623,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 585,
+      "yMin": -236,
+      "yMax": 699
+    },
+    {
+      "glyphId": 383,
+      "charCode": 623,
+      "advanceWidth": 778,
+      "leftSideBearing": -14,
+      "xMin": -14,
+      "xMax": 723,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 384,
+      "charCode": 624,
+      "advanceWidth": 778,
+      "leftSideBearing": -14,
+      "xMin": -14,
+      "xMax": 723,
+      "yMin": -233,
+      "yMax": 462
+    },
+    {
+      "glyphId": 385,
+      "charCode": 625,
+      "advanceWidth": 759,
+      "leftSideBearing": -14,
+      "xMin": -14,
+      "xMax": 704,
+      "yMin": -233,
+      "yMax": 462
+    },
+    {
+      "glyphId": 386,
+      "charCode": 626,
+      "advanceWidth": 694,
+      "leftSideBearing": -109,
+      "xMin": -109,
+      "xMax": 632,
+      "yMin": -233,
+      "yMax": 462
+    },
+    {
+      "glyphId": 387,
+      "charCode": 627,
+      "advanceWidth": 505,
+      "leftSideBearing": -6,
+      "xMin": -6,
+      "xMax": 486,
+      "yMin": -233,
+      "yMax": 462
+    },
+    {
+      "glyphId": 388,
+      "charCode": 628,
+      "advanceWidth": 588,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 614,
+      "yMin": -12,
+      "yMax": 462
+    },
+    {
+      "glyphId": 389,
+      "charCode": 629,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 441,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 390,
+      "charCode": 630,
+      "advanceWidth": 749,
+      "leftSideBearing": 23,
+      "xMin": 23,
+      "xMax": 751,
+      "yMin": -5,
+      "yMax": 462
+    },
+    {
+      "glyphId": 391,
+      "charCode": 631,
+      "advanceWidth": 685,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 626,
+      "yMin": -2,
+      "yMax": 477
+    },
+    {
+      "glyphId": 392,
+      "charCode": 632,
+      "advanceWidth": 691,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 632,
+      "yMin": -231,
+      "yMax": 685
+    },
+    {
+      "glyphId": 393,
+      "charCode": 633,
+      "advanceWidth": 427,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 410,
+      "yMin": 0,
+      "yMax": 462
+    },
+    {
+      "glyphId": 394,
+      "charCode": 634,
+      "advanceWidth": 493,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 476,
+      "yMin": 0,
+      "yMax": 699
+    },
+    {
+      "glyphId": 395,
+      "charCode": 635,
+      "advanceWidth": 436,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 417,
+      "yMin": -233,
+      "yMax": 462
+    },
+    {
+      "glyphId": 396,
+      "charCode": 636,
+      "advanceWidth": 389,
+      "leftSideBearing": -87,
+      "xMin": -87,
+      "xMax": 389,
+      "yMin": -233,
+      "yMax": 462
+    },
+    {
+      "glyphId": 397,
+      "charCode": 637,
+      "advanceWidth": 389,
+      "leftSideBearing": -47,
+      "xMin": -47,
+      "xMax": 389,
+      "yMin": -233,
+      "yMax": 462
+    },
+    {
+      "glyphId": 398,
+      "charCode": 638,
+      "advanceWidth": 360,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 417,
+      "yMin": 0,
+      "yMax": 484
+    },
+    {
+      "glyphId": 399,
+      "charCode": 639,
+      "advanceWidth": 338,
+      "leftSideBearing": 10,
+      "xMin": 10,
+      "xMax": 292,
+      "yMin": 0,
+      "yMax": 484
+    },
+    {
+      "glyphId": 400,
+      "charCode": 640,
+      "advanceWidth": 498,
+      "leftSideBearing": 8,
+      "xMin": 8,
+      "xMax": 515,
+      "yMin": 0,
+      "yMax": 464
+    },
+    {
+      "glyphId": 401,
+      "charCode": 641,
+      "advanceWidth": 498,
+      "leftSideBearing": 8,
+      "xMin": 8,
+      "xMax": 597,
+      "yMin": 0,
+      "yMax": 464
+    },
+    {
+      "glyphId": 402,
+      "charCode": 642,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 333,
+      "yMin": -218,
+      "yMax": 462
+    },
+    {
+      "glyphId": 403,
+      "charCode": 643,
+      "advanceWidth": 424,
+      "leftSideBearing": -104,
+      "xMin": -104,
+      "xMax": 584,
+      "yMin": -233,
+      "yMax": 683
+    },
+    {
+      "glyphId": 404,
+      "charCode": 644,
+      "advanceWidth": 394,
+      "leftSideBearing": -90,
+      "xMin": -90,
+      "xMax": 576,
+      "yMin": -207,
+      "yMax": 683
+    },
+    {
+      "glyphId": 405,
+      "charCode": 645,
+      "advanceWidth": 415,
+      "leftSideBearing": 79,
+      "xMin": 79,
+      "xMax": 344,
+      "yMin": -233,
+      "yMax": 470
+    },
+    {
+      "glyphId": 406,
+      "charCode": 646,
+      "advanceWidth": 521,
+      "leftSideBearing": -40,
+      "xMin": -40,
+      "xMax": 641,
+      "yMin": -243,
+      "yMax": 683
+    },
+    {
+      "glyphId": 407,
+      "charCode": 647,
+      "advanceWidth": 310,
+      "leftSideBearing": 7,
+      "xMin": 7,
+      "xMax": 299,
+      "yMin": -90,
+      "yMax": 513
+    },
+    {
+      "glyphId": 408,
+      "charCode": 648,
+      "advanceWidth": 311,
+      "leftSideBearing": -60,
+      "xMin": -60,
+      "xMax": 281,
+      "yMin": -233,
+      "yMax": 594
+    },
+    {
+      "glyphId": 409,
+      "charCode": 649,
+      "advanceWidth": 556,
+      "leftSideBearing": -16,
+      "xMin": -16,
+      "xMax": 514,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 410,
+      "charCode": 650,
+      "advanceWidth": 500,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 552,
+      "yMin": -8,
+      "yMax": 452
+    },
+    {
+      "glyphId": 411,
+      "charCode": 651,
+      "advanceWidth": 534,
+      "leftSideBearing": 18,
+      "xMin": 18,
+      "xMax": 492,
+      "yMin": -10,
+      "yMax": 462
+    },
+    {
+      "glyphId": 412,
+      "charCode": 652,
+      "advanceWidth": 444,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 401,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 413,
+      "charCode": 653,
+      "advanceWidth": 667,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 614,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 414,
+      "charCode": 654,
+      "advanceWidth": 444,
+      "leftSideBearing": 16,
+      "xMin": 16,
+      "xMax": 502,
+      "yMin": 0,
+      "yMax": 667
+    },
+    {
+      "glyphId": 415,
+      "charCode": 655,
+      "advanceWidth": 633,
+      "leftSideBearing": 65,
+      "xMin": 65,
+      "xMax": 606,
+      "yMin": 0,
+      "yMax": 464
+    },
+    {
+      "glyphId": 416,
+      "charCode": 656,
+      "advanceWidth": 440,
+      "leftSideBearing": -24,
+      "xMin": -24,
+      "xMax": 405,
+      "yMin": -218,
+      "yMax": 449
+    },
+    {
+      "glyphId": 417,
+      "charCode": 657,
+      "advanceWidth": 411,
+      "leftSideBearing": -24,
+      "xMin": -24,
+      "xMax": 376,
+      "yMin": -97,
+      "yMax": 449
+    },
+    {
+      "glyphId": 418,
+      "charCode": 658,
+      "advanceWidth": 499,
+      "leftSideBearing": -10,
+      "xMin": -10,
+      "xMax": 558,
+      "yMin": -236,
+      "yMax": 450
+    },
+    {
+      "glyphId": 419,
+      "charCode": 659,
+      "advanceWidth": 499,
+      "leftSideBearing": -10,
+      "xMin": -10,
+      "xMax": 528,
+      "yMin": -307,
+      "yMax": 450
+    },
+    {
+      "glyphId": 420,
+      "charCode": 660,
+      "advanceWidth": 530,
+      "leftSideBearing": 25,
+      "xMin": 25,
+      "xMax": 520,
+      "yMin": 0,
+      "yMax": 685
+    },
+    {
+      "glyphId": 421,
+      "charCode": 661,
+      "advanceWidth": 530,
+      "leftSideBearing": 65,
+      "xMin": 65,
+      "xMax": 509,
+      "yMin": 0,
+      "yMax": 685
+    },
+    {
+      "glyphId": 422,
+      "charCode": 662,
+      "advanceWidth": 487,
+      "leftSideBearing": 25,
+      "xMin": 25,
+      "xMax": 453,
+      "yMin": -14,
+      "yMax": 669
+    },
+    {
+      "glyphId": 423,
+      "charCode": 663,
+      "advanceWidth": 479,
+      "leftSideBearing": 20,
+      "xMin": 20,
+      "xMax": 544,
+      "yMin": -237,
+      "yMax": 462
+    },
+    {
+      "glyphId": 424,
+      "charCode": 664,
+      "advanceWidth": 723,
+      "leftSideBearing": 13,
+      "xMin": 13,
+      "xMax": 734,
+      "yMin": -17,
+      "yMax": 680
+    },
+    {
+      "glyphId": 425,
+      "charCode": 665,
+      "advanceWidth": 493,
+      "leftSideBearing": -10,
+      "xMin": -10,
+      "xMax": 486,
+      "yMin": 0,
+      "yMax": 464
+    },
+    {
+      "glyphId": 426,
+      "charCode": 666,
+      "advanceWidth": 465,
+      "leftSideBearing": 16,
+      "xMin": 16,
+      "xMax": 504,
+      "yMin": -14,
+      "yMax": 475
+    },
+    {
+      "glyphId": 427,
+      "charCode": 667,
+      "advanceWidth": 580,
+      "leftSideBearing": 29,
+      "xMin": 29,
+      "xMax": 690,
+      "yMin": -11,
+      "yMax": 538
+    },
+    {
+      "glyphId": 428,
+      "charCode": 668,
+      "advanceWidth": 582,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 676,
+      "yMin": 0,
+      "yMax": 464
+    },
+    {
+      "glyphId": 429,
+      "charCode": 669,
+      "advanceWidth": 475,
+      "leftSideBearing": -50,
+      "xMin": -50,
+      "xMax": 463,
+      "yMin": -233,
+      "yMax": 685
+    },
+    {
+      "glyphId": 430,
+      "charCode": 670,
+      "advanceWidth": 500,
+      "leftSideBearing": 22,
+      "xMin": 22,
+      "xMax": 528,
+      "yMin": -250,
+      "yMax": 457
+    },
+    {
+      "glyphId": 431,
+      "charCode": 671,
+      "advanceWidth": 485,
+      "leftSideBearing": 10,
+      "xMin": 10,
+      "xMax": 468,
+      "yMin": 0,
+      "yMax": 464
+    },
+    {
+      "glyphId": 432,
+      "charCode": 672,
+      "advanceWidth": 488,
+      "leftSideBearing": 1,
+      "xMin": 1,
+      "xMax": 674,
+      "yMin": -205,
+      "yMax": 582
+    },
+    {
+      "glyphId": 433,
+      "charCode": 673,
+      "advanceWidth": 530,
+      "leftSideBearing": 25,
+      "xMin": 25,
+      "xMax": 520,
+      "yMin": 0,
+      "yMax": 685
+    },
+    {
+      "glyphId": 434,
+      "charCode": 674,
+      "advanceWidth": 530,
+      "leftSideBearing": 65,
+      "xMin": 65,
+      "xMax": 507,
+      "yMin": 0,
+      "yMax": 685
+    },
+    {
+      "glyphId": 435,
+      "charCode": 675,
+      "advanceWidth": 750,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 735,
+      "yMin": -13,
+      "yMax": 699
+    },
+    {
+      "glyphId": 436,
+      "charCode": 676,
+      "advanceWidth": 820,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 813,
+      "yMin": -236,
+      "yMax": 699
+    },
+    {
+      "glyphId": 437,
+      "charCode": 677,
+      "advanceWidth": 817,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 743,
+      "yMin": -97,
+      "yMax": 699
+    },
+    {
+      "glyphId": 438,
+      "charCode": 678,
+      "advanceWidth": 560,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 524,
+      "yMin": -13,
+      "yMax": 594
+    },
+    {
+      "glyphId": 439,
+      "charCode": 679,
+      "advanceWidth": 453,
+      "leftSideBearing": -30,
+      "xMin": -30,
+      "xMax": 670,
+      "yMin": -233,
+      "yMax": 683
+    },
+    {
+      "glyphId": 440,
+      "charCode": 680,
+      "advanceWidth": 600,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 618,
+      "yMin": -18,
+      "yMax": 594
+    },
+    {
+      "glyphId": 441,
+      "charCode": 688,
+      "advanceWidth": 380,
+      "leftSideBearing": 7,
+      "xMin": 7,
+      "xMax": 365,
+      "yMin": 328,
+      "yMax": 852
+    },
+    {
+      "glyphId": 442,
+      "charCode": 689,
+      "advanceWidth": 380,
+      "leftSideBearing": 7,
+      "xMin": 7,
+      "xMax": 365,
+      "yMin": 329,
+      "yMax": 841
+    },
+    {
+      "glyphId": 443,
+      "charCode": 690,
+      "advanceWidth": 350,
+      "leftSideBearing": 24,
+      "xMin": 24,
+      "xMax": 384,
+      "yMin": 176,
+      "yMax": 862
+    },
+    {
+      "glyphId": 444,
+      "charCode": 691,
+      "advanceWidth": 389,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 384,
+      "yMin": 344,
+      "yMax": 690
+    },
+    {
+      "glyphId": 445,
+      "charCode": 692,
+      "advanceWidth": 389,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 365,
+      "yMin": 344,
+      "yMax": 690
+    },
+    {
+      "glyphId": 446,
+      "charCode": 693,
+      "advanceWidth": 389,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 371,
+      "yMin": 171,
+      "yMax": 690
+    },
+    {
+      "glyphId": 447,
+      "charCode": 694,
+      "advanceWidth": 390,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 466,
+      "yMin": 345,
+      "yMax": 684
+    },
+    {
+      "glyphId": 448,
+      "charCode": 695,
+      "advanceWidth": 450,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 467,
+      "yMin": 331,
+      "yMax": 690
+    },
+    {
+      "glyphId": 449,
+      "charCode": 696,
+      "advanceWidth": 350,
+      "leftSideBearing": 11,
+      "xMin": 11,
+      "xMax": 386,
+      "yMin": 176,
+      "yMax": 690
+    },
+    {
+      "glyphId": 450,
+      "charCode": 699,
+      "advanceWidth": 333,
+      "leftSideBearing": 128,
+      "xMin": 128,
+      "xMax": 332,
+      "yMin": 369,
+      "yMax": 685
+    },
+    {
+      "glyphId": 451,
+      "charCode": 704,
+      "advanceWidth": 343,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 323,
+      "yMin": 240,
+      "yMax": 690
+    },
+    {
+      "glyphId": 452,
+      "charCode": 705,
+      "advanceWidth": 326,
+      "leftSideBearing": 20,
+      "xMin": 20,
+      "xMax": 364,
+      "yMin": 240,
+      "yMax": 690
+    },
+    {
+      "glyphId": 453,
+      "charCode": 710,
+      "advanceWidth": 333,
+      "leftSideBearing": 40,
+      "xMin": 40,
+      "xMax": 367,
+      "yMin": 516,
+      "yMax": 690
+    },
+    {
+      "glyphId": 454,
+      "charCode": 711,
+      "advanceWidth": 333,
+      "leftSideBearing": 79,
+      "xMin": 79,
+      "xMax": 411,
+      "yMin": 516,
+      "yMax": 690
+    },
+    {
+      "glyphId": 455,
+      "charCode": 728,
+      "advanceWidth": 333,
+      "leftSideBearing": 71,
+      "xMin": 71,
+      "xMax": 387,
+      "yMin": 516,
+      "yMax": 678
+    },
+    {
+      "glyphId": 456,
+      "charCode": 729,
+      "advanceWidth": 333,
+      "leftSideBearing": 163,
+      "xMin": 163,
+      "xMax": 293,
+      "yMin": 525,
+      "yMax": 655
+    },
+    {
+      "glyphId": 457,
+      "charCode": 730,
+      "advanceWidth": 333,
+      "leftSideBearing": 127,
+      "xMin": 127,
+      "xMax": 340,
+      "yMin": 541,
+      "yMax": 754
+    },
+    {
+      "glyphId": 458,
+      "charCode": 731,
+      "advanceWidth": 333,
+      "leftSideBearing": -40,
+      "xMin": -40,
+      "xMax": 189,
+      "yMin": -173,
+      "yMax": 44
+    },
+    {
+      "glyphId": 459,
+      "charCode": 732,
+      "advanceWidth": 333,
+      "leftSideBearing": 48,
+      "xMin": 48,
+      "xMax": 407,
+      "yMin": 536,
+      "yMax": 655
+    },
+    {
+      "glyphId": 460,
+      "charCode": 733,
+      "advanceWidth": 333,
+      "leftSideBearing": 69,
+      "xMin": 69,
+      "xMax": 498,
+      "yMin": 516,
+      "yMax": 697
+    },
+    {
+      "glyphId": 461,
+      "charCode": 736,
+      "advanceWidth": 379,
+      "leftSideBearing": 14,
+      "xMin": 14,
+      "xMax": 423,
+      "yMin": 190,
+      "yMax": 684
+    },
+    {
+      "glyphId": 462,
+      "charCode": 737,
+      "advanceWidth": 222,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 217,
+      "yMin": 329,
+      "yMax": 857
+    },
+    {
+      "glyphId": 463,
+      "charCode": 738,
+      "advanceWidth": 280,
+      "leftSideBearing": 8,
+      "xMin": 8,
+      "xMax": 274,
+      "yMin": 331,
+      "yMax": 690
+    },
+    {
+      "glyphId": 464,
+      "charCode": 739,
+      "advanceWidth": 389,
+      "leftSideBearing": 3,
+      "xMin": 3,
+      "xMax": 387,
+      "yMin": 335,
+      "yMax": 690
+    },
+    {
+      "glyphId": 465,
+      "charCode": 740,
+      "advanceWidth": 328,
+      "leftSideBearing": 9,
+      "xMin": 9,
+      "xMax": 364,
+      "yMin": 329,
+      "yMax": 849
+    },
+    {
+      "glyphId": 466,
+      "charCode": 748,
+      "advanceWidth": 314,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 309,
+      "yMin": -167,
+      "yMax": 70
+    },
+    {
+      "glyphId": 467,
+      "charCode": 749,
+      "advanceWidth": 395,
+      "leftSideBearing": 5,
+      "xMin": 5,
+      "xMax": 390,
+      "yMin": 528,
+      "yMax": 720
+    },
+    {
+      "glyphId": 468,
+      "charCode": 759,
+      "advanceWidth": 333,
+      "leftSideBearing": -74,
+      "xMin": -74,
+      "xMax": 285,
+      "yMin": -227,
+      "yMax": -108
+    },
+    {
+      "glyphId": 469,
+      "charCode": 900,
+      "advanceWidth": 300,
+      "leftSideBearing": 140,
+      "xMin": 140,
+      "xMax": 319,
+      "yMin": 516,
+      "yMax": 680
+    },
+    {
+      "glyphId": 470,
+      "charCode": 901,
+      "advanceWidth": 380,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 440,
+      "yMin": 516,
+      "yMax": 680
+    },
+    {
+      "glyphId": 471,
+      "charCode": 902,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 593,
+      "yMin": 0,
+      "yMax": 693
+    },
+    {
+      "glyphId": 472,
+      "charCode": 903,
+      "advanceWidth": 333,
+      "leftSideBearing": 116,
+      "xMin": 116,
+      "xMax": 264,
+      "yMin": 311,
+      "yMax": 459
+    },
+    {
+      "glyphId": 473,
+      "charCode": 904,
+      "advanceWidth": 700,
+      "leftSideBearing": 10,
+      "xMin": 10,
+      "xMax": 748,
+      "yMin": 0,
+      "yMax": 693
+    },
+    {
+      "glyphId": 474,
+      "charCode": 905,
+      "advanceWidth": 850,
+      "leftSideBearing": 9,
+      "xMin": 9,
+      "xMax": 889,
+      "yMin": 0,
+      "yMax": 693
+    },
+    {
+      "glyphId": 475,
+      "charCode": 906,
+      "advanceWidth": 450,
+      "leftSideBearing": 9,
+      "xMin": 9,
+      "xMax": 503,
+      "yMin": 0,
+      "yMax": 693
+    },
+    {
+      "glyphId": 476,
+      "charCode": 908,
+      "advanceWidth": 722,
+      "leftSideBearing": 11,
+      "xMin": 11,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 693
+    },
+    {
+      "glyphId": 477,
+      "charCode": 910,
+      "advanceWidth": 700,
+      "leftSideBearing": 8,
+      "xMin": 8,
+      "xMax": 855,
+      "yMin": 0,
+      "yMax": 693
+    },
+    {
+      "glyphId": 478,
+      "charCode": 911,
+      "advanceWidth": 808,
+      "leftSideBearing": 25,
+      "xMin": 25,
+      "xMax": 774,
+      "yMin": 0,
+      "yMax": 693
+    },
+    {
+      "glyphId": 479,
+      "charCode": 912,
+      "advanceWidth": 278,
+      "leftSideBearing": 6,
+      "xMin": 6,
+      "xMax": 419,
+      "yMin": -9,
+      "yMax": 680
+    },
+    {
+      "glyphId": 480,
+      "charCode": 913,
+      "advanceWidth": 667,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 593,
+      "yMin": 0,
+      "yMax": 683
+    },
+    {
+      "glyphId": 481,
+      "charCode": 914,
+      "advanceWidth": 667,
+      "leftSideBearing": -25,
+      "xMin": -25,
+      "xMax": 624,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 482,
+      "charCode": 915,
+      "advanceWidth": 585,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 670,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 483,
+      "charCode": 916,
+      "advanceWidth": 667,
+      "leftSideBearing": -65,
+      "xMin": -65,
+      "xMax": 549,
+      "yMin": 0,
+      "yMax": 683
+    },
+    {
+      "glyphId": 484,
+      "charCode": 917,
+      "advanceWidth": 667,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 653,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 485,
+      "charCode": 918,
+      "advanceWidth": 611,
+      "leftSideBearing": -12,
+      "xMin": -12,
+      "xMax": 589,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 486,
+      "charCode": 919,
+      "advanceWidth": 778,
+      "leftSideBearing": -24,
+      "xMin": -24,
+      "xMax": 799,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 487,
+      "charCode": 920,
+      "advanceWidth": 718,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 488,
+      "charCode": 921,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 406,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 489,
+      "charCode": 922,
+      "advanceWidth": 667,
+      "leftSideBearing": -21,
+      "xMin": -21,
+      "xMax": 702,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 490,
+      "charCode": 923,
+      "advanceWidth": 655,
+      "leftSideBearing": -68,
+      "xMin": -68,
+      "xMax": 581,
+      "yMin": 0,
+      "yMax": 683
+    },
+    {
+      "glyphId": 491,
+      "charCode": 924,
+      "advanceWidth": 889,
+      "leftSideBearing": -29,
+      "xMin": -29,
+      "xMax": 917,
+      "yMin": -12,
+      "yMax": 669
+    },
+    {
+      "glyphId": 492,
+      "charCode": 925,
+      "advanceWidth": 722,
+      "leftSideBearing": -27,
+      "xMin": -27,
+      "xMax": 748,
+      "yMin": -15,
+      "yMax": 669
+    },
+    {
+      "glyphId": 493,
+      "charCode": 926,
+      "advanceWidth": 746,
+      "leftSideBearing": 25,
+      "xMin": 25,
+      "xMax": 740,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 494,
+      "charCode": 927,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 495,
+      "charCode": 928,
+      "advanceWidth": 778,
+      "leftSideBearing": -24,
+      "xMin": -24,
+      "xMax": 799,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 496,
+      "charCode": 929,
+      "advanceWidth": 611,
+      "leftSideBearing": -28,
+      "xMin": -28,
+      "xMax": 613,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 497,
+      "charCode": 931,
+      "advanceWidth": 633,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 619,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 498,
+      "charCode": 932,
+      "advanceWidth": 611,
+      "leftSideBearing": 49,
+      "xMin": 49,
+      "xMax": 650,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 499,
+      "charCode": 933,
+      "advanceWidth": 611,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 697,
+      "yMin": 0,
+      "yMax": 685
+    },
+    {
+      "glyphId": 500,
+      "charCode": 934,
+      "advanceWidth": 771,
+      "leftSideBearing": 26,
+      "xMin": 26,
+      "xMax": 763,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 501,
+      "charCode": 935,
+      "advanceWidth": 667,
+      "leftSideBearing": -24,
+      "xMin": -24,
+      "xMax": 694,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 502,
+      "charCode": 936,
+      "advanceWidth": 661,
+      "leftSideBearing": 17,
+      "xMin": 17,
+      "xMax": 780,
+      "yMin": 0,
+      "yMax": 685
+    },
+    {
+      "glyphId": 503,
+      "charCode": 937,
+      "advanceWidth": 808,
+      "leftSideBearing": 25,
+      "xMin": 25,
+      "xMax": 774,
+      "yMin": 0,
+      "yMax": 685
+    },
+    {
+      "glyphId": 504,
+      "charCode": 938,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 486,
+      "yMin": 0,
+      "yMax": 905
+    },
+    {
+      "glyphId": 505,
+      "charCode": 939,
+      "advanceWidth": 611,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 697,
+      "yMin": 0,
+      "yMax": 905
+    },
+    {
+      "glyphId": 506,
+      "charCode": 940,
+      "advanceWidth": 576,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 574,
+      "yMin": -13,
+      "yMax": 680
+    },
+    {
+      "glyphId": 507,
+      "charCode": 941,
+      "advanceWidth": 454,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 408,
+      "yMin": -13,
+      "yMax": 680
+    },
+    {
+      "glyphId": 508,
+      "charCode": 942,
+      "advanceWidth": 488,
+      "leftSideBearing": -7,
+      "xMin": -7,
+      "xMax": 474,
+      "yMin": -205,
+      "yMax": 680
+    },
+    {
+      "glyphId": 509,
+      "charCode": 943,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 286,
+      "yMin": -9,
+      "yMax": 680
+    },
+    {
+      "glyphId": 510,
+      "charCode": 944,
+      "advanceWidth": 536,
+      "leftSideBearing": -7,
+      "xMin": -7,
+      "xMax": 500,
+      "yMin": -13,
+      "yMax": 680
+    },
+    {
+      "glyphId": 511,
+      "charCode": 945,
+      "advanceWidth": 576,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 574,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 512,
+      "charCode": 946,
+      "advanceWidth": 500,
+      "leftSideBearing": -79,
+      "xMin": -79,
+      "xMax": 480,
+      "yMin": -205,
+      "yMax": 698
+    },
+    {
+      "glyphId": 513,
+      "charCode": 947,
+      "advanceWidth": 438,
+      "leftSideBearing": 3,
+      "xMin": 3,
+      "xMax": 461,
+      "yMin": -204,
+      "yMax": 462
+    },
+    {
+      "glyphId": 514,
+      "charCode": 948,
+      "advanceWidth": 496,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 456,
+      "yMin": -13,
+      "yMax": 698
+    },
+    {
+      "glyphId": 515,
+      "charCode": 949,
+      "advanceWidth": 454,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 408,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 516,
+      "charCode": 950,
+      "advanceWidth": 415,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 473,
+      "yMin": -205,
+      "yMax": 698
+    },
+    {
+      "glyphId": 517,
+      "charCode": 951,
+      "advanceWidth": 488,
+      "leftSideBearing": -7,
+      "xMin": -7,
+      "xMax": 474,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 518,
+      "charCode": 952,
+      "advanceWidth": 501,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 488,
+      "yMin": -13,
+      "yMax": 698
+    },
+    {
+      "glyphId": 519,
+      "charCode": 953,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 238,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 520,
+      "charCode": 954,
+      "advanceWidth": 500,
+      "leftSideBearing": -23,
+      "xMin": -23,
+      "xMax": 504,
+      "yMin": -12,
+      "yMax": 462
+    },
+    {
+      "glyphId": 521,
+      "charCode": 955,
+      "advanceWidth": 484,
+      "leftSideBearing": -34,
+      "xMin": -34,
+      "xMax": 459,
+      "yMin": -18,
+      "yMax": 698
+    },
+    {
+      "glyphId": 522,
+      "charCode": 956,
+      "advanceWidth": 523,
+      "leftSideBearing": -82,
+      "xMin": -82,
+      "xMax": 483,
+      "yMin": -205,
+      "yMax": 449
+    },
+    {
+      "glyphId": 523,
+      "charCode": 957,
+      "advanceWidth": 469,
+      "leftSideBearing": -23,
+      "xMin": -23,
+      "xMax": 441,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 524,
+      "charCode": 958,
+      "advanceWidth": 415,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 426,
+      "yMin": -205,
+      "yMax": 698
+    },
+    {
+      "glyphId": 525,
+      "charCode": 959,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 441,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 526,
+      "charCode": 960,
+      "advanceWidth": 558,
+      "leftSideBearing": -6,
+      "xMin": -6,
+      "xMax": 570,
+      "yMin": -15,
+      "yMax": 449
+    },
+    {
+      "glyphId": 527,
+      "charCode": 961,
+      "advanceWidth": 495,
+      "leftSideBearing": -81,
+      "xMin": -81,
+      "xMax": 447,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 528,
+      "charCode": 962,
+      "advanceWidth": 415,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 447,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 529,
+      "charCode": 963,
+      "advanceWidth": 499,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 536,
+      "yMin": -13,
+      "yMax": 449
+    },
+    {
+      "glyphId": 530,
+      "charCode": 964,
+      "advanceWidth": 415,
+      "leftSideBearing": 4,
+      "xMin": 4,
+      "xMax": 455,
+      "yMin": -9,
+      "yMax": 449
+    },
+    {
+      "glyphId": 531,
+      "charCode": 965,
+      "advanceWidth": 536,
+      "leftSideBearing": -7,
+      "xMin": -7,
+      "xMax": 477,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 532,
+      "charCode": 966,
+      "advanceWidth": 678,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 619,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 533,
+      "charCode": 967,
+      "advanceWidth": 404,
+      "leftSideBearing": -136,
+      "xMin": -136,
+      "xMax": 515,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 534,
+      "charCode": 968,
+      "advanceWidth": 652,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 715,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 535,
+      "charCode": 969,
+      "advanceWidth": 735,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 676,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 536,
+      "charCode": 970,
+      "advanceWidth": 278,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 351,
+      "yMin": -9,
+      "yMax": 655
+    },
+    {
+      "glyphId": 537,
+      "charCode": 971,
+      "advanceWidth": 536,
+      "leftSideBearing": -7,
+      "xMin": -7,
+      "xMax": 477,
+      "yMin": -13,
+      "yMax": 655
+    },
+    {
+      "glyphId": 538,
+      "charCode": 972,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 441,
+      "yMin": -13,
+      "yMax": 680
+    },
+    {
+      "glyphId": 539,
+      "charCode": 973,
+      "advanceWidth": 536,
+      "leftSideBearing": -7,
+      "xMin": -7,
+      "xMax": 477,
+      "yMin": -13,
+      "yMax": 680
+    },
+    {
+      "glyphId": 540,
+      "charCode": 974,
+      "advanceWidth": 735,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 676,
+      "yMin": -13,
+      "yMax": 680
+    },
+    {
+      "glyphId": 541,
+      "charCode": 976,
+      "advanceWidth": 500,
+      "leftSideBearing": 42,
+      "xMin": 42,
+      "xMax": 479,
+      "yMin": -12,
+      "yMax": 696
+    },
+    {
+      "glyphId": 542,
+      "charCode": 977,
+      "advanceWidth": 582,
+      "leftSideBearing": 8,
+      "xMin": 8,
+      "xMax": 589,
+      "yMin": -13,
+      "yMax": 698
+    },
+    {
+      "glyphId": 543,
+      "charCode": 978,
+      "advanceWidth": 611,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 696,
+      "yMin": 0,
+      "yMax": 685
+    },
+    {
+      "glyphId": 544,
+      "charCode": 981,
+      "advanceWidth": 678,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 619,
+      "yMin": -205,
+      "yMax": 699
+    },
+    {
+      "glyphId": 545,
+      "charCode": 982,
+      "advanceWidth": 828,
+      "leftSideBearing": -2,
+      "xMin": -2,
+      "xMax": 844,
+      "yMin": -13,
+      "yMax": 449
+    },
+    {
+      "glyphId": 546,
+      "charCode": 984,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -200,
+      "yMax": 685
+    },
+    {
+      "glyphId": 547,
+      "charCode": 985,
+      "advanceWidth": 500,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 441,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 548,
+      "charCode": 986,
+      "advanceWidth": 669,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 665,
+      "yMin": -205,
+      "yMax": 685
+    },
+    {
+      "glyphId": 549,
+      "charCode": 987,
+      "advanceWidth": 475,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 509,
+      "yMin": -205,
+      "yMax": 492
+    },
+    {
+      "glyphId": 550,
+      "charCode": 988,
+      "advanceWidth": 667,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 670,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 551,
+      "charCode": 989,
+      "advanceWidth": 525,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 507,
+      "yMin": -190,
+      "yMax": 450
+    },
+    {
+      "glyphId": 552,
+      "charCode": 990,
+      "advanceWidth": 757,
+      "leftSideBearing": -7,
+      "xMin": -7,
+      "xMax": 758,
+      "yMin": -18,
+      "yMax": 793
+    },
+    {
+      "glyphId": 553,
+      "charCode": 991,
+      "advanceWidth": 485,
+      "leftSideBearing": 16,
+      "xMin": 16,
+      "xMax": 466,
+      "yMin": 0,
+      "yMax": 698
+    },
+    {
+      "glyphId": 554,
+      "charCode": 992,
+      "advanceWidth": 734,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 710,
+      "yMin": -205,
+      "yMax": 685
+    },
+    {
+      "glyphId": 555,
+      "charCode": 993,
+      "advanceWidth": 530,
+      "leftSideBearing": 47,
+      "xMin": 47,
+      "xMax": 467,
+      "yMin": -205,
+      "yMax": 639
+    },
+    {
+      "glyphId": 556,
+      "charCode": 1008,
+      "advanceWidth": 569,
+      "leftSideBearing": -50,
+      "xMin": -50,
+      "xMax": 592,
+      "yMin": -15,
+      "yMax": 462
+    },
+    {
+      "glyphId": 557,
+      "charCode": 1009,
+      "advanceWidth": 517,
+      "leftSideBearing": -12,
+      "xMin": -12,
+      "xMax": 458,
+      "yMin": -206,
+      "yMax": 462
+    },
+    {
+      "glyphId": 558,
+      "charCode": 1012,
+      "advanceWidth": 722,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 691,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 559,
+      "charCode": 1013,
+      "advanceWidth": 466,
+      "leftSideBearing": -3,
+      "xMin": -3,
+      "xMax": 429,
+      "yMin": -13,
+      "yMax": 462.08737024221455
+    },
+    {
+      "glyphId": 560,
+      "charCode": 1014,
+      "advanceWidth": 486,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 427,
+      "yMin": -15.087370242214531,
+      "yMax": 460
+    },
+    {
+      "glyphId": 561,
+      "charCode": 1025,
+      "advanceWidth": 667,
+      "leftSideBearing": -35,
+      "xMin": -35,
+      "xMax": 645,
+      "yMin": 0,
+      "yMax": 905
+    },
+    {
+      "glyphId": 562,
+      "charCode": 1026,
+      "advanceWidth": 789,
+      "leftSideBearing": 80,
+      "xMin": 80,
+      "xMax": 737,
+      "yMin": -205,
+      "yMax": 669
+    },
+    {
+      "glyphId": 563,
+      "charCode": 1027,
+      "advanceWidth": 604,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 658,
+      "yMin": 0,
+      "yMax": 947
+    },
+    {
+      "glyphId": 564,
+      "charCode": 1028,
+      "advanceWidth": 657,
+      "leftSideBearing": 44,
+      "xMin": 44,
+      "xMax": 689,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 565,
+      "charCode": 1029,
+      "advanceWidth": 556,
+      "leftSideBearing": -22,
+      "xMin": -22,
+      "xMax": 502,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 566,
+      "charCode": 1030,
+      "advanceWidth": 389,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 406,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 567,
+      "charCode": 1031,
+      "advanceWidth": 389,
+      "leftSideBearing": -35,
+      "xMin": -35,
+      "xMax": 477,
+      "yMin": 0,
+      "yMax": 905
+    },
+    {
+      "glyphId": 568,
+      "charCode": 1032,
+      "advanceWidth": 500,
+      "leftSideBearing": -8,
+      "xMin": -8,
+      "xMax": 562,
+      "yMin": -99,
+      "yMax": 669
+    },
+    {
+      "glyphId": 569,
+      "charCode": 1033,
+      "advanceWidth": 954,
+      "leftSideBearing": -59,
+      "xMin": -59,
+      "xMax": 896,
+      "yMin": -18,
+      "yMax": 669
+    },
+    {
+      "glyphId": 570,
+      "charCode": 1034,
+      "advanceWidth": 982,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 924,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 571,
+      "charCode": 1035,
+      "advanceWidth": 830,
+      "leftSideBearing": 71,
+      "xMin": 71,
+      "xMax": 757,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 572,
+      "charCode": 1036,
+      "advanceWidth": 678,
+      "leftSideBearing": -35,
+      "xMin": -35,
+      "xMax": 697,
+      "yMin": 0,
+      "yMax": 947
+    },
+    {
+      "glyphId": 573,
+      "charCode": 1038,
+      "advanceWidth": 666,
+      "leftSideBearing": 99,
+      "xMin": 99,
+      "xMax": 712,
+      "yMin": -18,
+      "yMax": 951
+    },
+    {
+      "glyphId": 574,
+      "charCode": 1039,
+      "advanceWidth": 778,
+      "leftSideBearing": -33,
+      "xMin": -33,
+      "xMax": 791,
+      "yMin": -184,
+      "yMax": 669
+    },
+    {
+      "glyphId": 575,
+      "charCode": 1040,
+      "advanceWidth": 667,
+      "leftSideBearing": -57,
+      "xMin": -57,
+      "xMax": 604,
+      "yMin": 0,
+      "yMax": 683
+    },
+    {
+      "glyphId": 576,
+      "charCode": 1041,
+      "advanceWidth": 635,
+      "leftSideBearing": -18,
+      "xMin": -18,
+      "xMax": 629,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 577,
+      "charCode": 1042,
+      "advanceWidth": 654,
+      "leftSideBearing": -25,
+      "xMin": -25,
+      "xMax": 624,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 578,
+      "charCode": 1043,
+      "advanceWidth": 604,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 658,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 579,
+      "charCode": 1044,
+      "advanceWidth": 696,
+      "leftSideBearing": -115,
+      "xMin": -115,
+      "xMax": 718,
+      "yMin": -184,
+      "yMax": 669
+    },
+    {
+      "glyphId": 580,
+      "charCode": 1045,
+      "advanceWidth": 667,
+      "leftSideBearing": -35,
+      "xMin": -35,
+      "xMax": 645,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 581,
+      "charCode": 1046,
+      "advanceWidth": 927,
+      "leftSideBearing": -63,
+      "xMin": -63,
+      "xMax": 969,
+      "yMin": 0,
+      "yMax": 678
+    },
+    {
+      "glyphId": 582,
+      "charCode": 1047,
+      "advanceWidth": 561,
+      "leftSideBearing": -10,
+      "xMin": -10,
+      "xMax": 549,
+      "yMin": -18,
+      "yMax": 686
+    },
+    {
+      "glyphId": 583,
+      "charCode": 1048,
+      "advanceWidth": 768,
+      "leftSideBearing": -33,
+      "xMin": -33,
+      "xMax": 790,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 584,
+      "charCode": 1049,
+      "advanceWidth": 768,
+      "leftSideBearing": -33,
+      "xMin": -33,
+      "xMax": 790,
+      "yMin": 0,
+      "yMax": 948
+    },
+    {
+      "glyphId": 585,
+      "charCode": 1050,
+      "advanceWidth": 678,
+      "leftSideBearing": -35,
+      "xMin": -35,
+      "xMax": 697,
+      "yMin": 0,
+      "yMax": 678
+    },
+    {
+      "glyphId": 586,
+      "charCode": 1051,
+      "advanceWidth": 742,
+      "leftSideBearing": -59,
+      "xMin": -59,
+      "xMax": 764,
+      "yMin": -18,
+      "yMax": 669
+    },
+    {
+      "glyphId": 587,
+      "charCode": 1052,
+      "advanceWidth": 890,
+      "leftSideBearing": -34,
+      "xMin": -34,
+      "xMax": 912,
+      "yMin": -12,
+      "yMax": 669
+    },
+    {
+      "glyphId": 588,
+      "charCode": 1053,
+      "advanceWidth": 769,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 791,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 589,
+      "charCode": 1054,
+      "advanceWidth": 722,
+      "leftSideBearing": 53,
+      "xMin": 53,
+      "xMax": 717,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 590,
+      "charCode": 1055,
+      "advanceWidth": 767,
+      "leftSideBearing": -35,
+      "xMin": -35,
+      "xMax": 789,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 591,
+      "charCode": 1056,
+      "advanceWidth": 590,
+      "leftSideBearing": -30,
+      "xMin": -30,
+      "xMax": 611,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 592,
+      "charCode": 1057,
+      "advanceWidth": 667,
+      "leftSideBearing": 65,
+      "xMin": 65,
+      "xMax": 710,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 593,
+      "charCode": 1058,
+      "advanceWidth": 611,
+      "leftSideBearing": 80,
+      "xMin": 80,
+      "xMax": 681,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 594,
+      "charCode": 1059,
+      "advanceWidth": 666,
+      "leftSideBearing": 99,
+      "xMin": 99,
+      "xMax": 712,
+      "yMin": -18,
+      "yMax": 669
+    },
+    {
+      "glyphId": 595,
+      "charCode": 1060,
+      "advanceWidth": 833,
+      "leftSideBearing": 72,
+      "xMin": 72,
+      "xMax": 816,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 596,
+      "charCode": 1061,
+      "advanceWidth": 607,
+      "leftSideBearing": -61,
+      "xMin": -61,
+      "xMax": 657,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 597,
+      "charCode": 1062,
+      "advanceWidth": 770,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 792,
+      "yMin": -184,
+      "yMax": 669
+    },
+    {
+      "glyphId": 598,
+      "charCode": 1063,
+      "advanceWidth": 758,
+      "leftSideBearing": 120,
+      "xMin": 120,
+      "xMax": 780,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 599,
+      "charCode": 1064,
+      "advanceWidth": 960,
+      "leftSideBearing": -33,
+      "xMin": -33,
+      "xMax": 982,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 600,
+      "charCode": 1065,
+      "advanceWidth": 960,
+      "leftSideBearing": -33,
+      "xMin": -33,
+      "xMax": 982,
+      "yMin": -184,
+      "yMax": 669
+    },
+    {
+      "glyphId": 601,
+      "charCode": 1066,
+      "advanceWidth": 780,
+      "leftSideBearing": 107,
+      "xMin": 107,
+      "xMax": 722,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 602,
+      "charCode": 1067,
+      "advanceWidth": 985,
+      "leftSideBearing": -19,
+      "xMin": -19,
+      "xMax": 1007,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 603,
+      "charCode": 1068,
+      "advanceWidth": 636,
+      "leftSideBearing": -19,
+      "xMin": -19,
+      "xMax": 578,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 604,
+      "charCode": 1069,
+      "advanceWidth": 671,
+      "leftSideBearing": 4,
+      "xMin": 4,
+      "xMax": 648,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 605,
+      "charCode": 1070,
+      "advanceWidth": 905,
+      "leftSideBearing": -38,
+      "xMin": -38,
+      "xMax": 871,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 606,
+      "charCode": 1071,
+      "advanceWidth": 710,
+      "leftSideBearing": -65,
+      "xMin": -65,
+      "xMax": 732,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 607,
+      "charCode": 1072,
+      "advanceWidth": 527,
+      "leftSideBearing": 20,
+      "xMin": 20,
+      "xMax": 497,
+      "yMin": -14,
+      "yMax": 462
+    },
+    {
+      "glyphId": 608,
+      "charCode": 1073,
+      "advanceWidth": 499,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 570,
+      "yMin": -13,
+      "yMax": 685
+    },
+    {
+      "glyphId": 609,
+      "charCode": 1074,
+      "advanceWidth": 482,
+      "leftSideBearing": 25,
+      "xMin": 25,
+      "xMax": 458,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 610,
+      "charCode": 1075,
+      "advanceWidth": 368,
+      "leftSideBearing": -8,
+      "xMin": -8,
+      "xMax": 371,
+      "yMin": -14,
+      "yMax": 461
+    },
+    {
+      "glyphId": 611,
+      "charCode": 1076,
+      "advanceWidth": 496,
+      "leftSideBearing": 22,
+      "xMin": 22,
+      "xMax": 466,
+      "yMin": -13,
+      "yMax": 695
+    },
+    {
+      "glyphId": 612,
+      "charCode": 1077,
+      "advanceWidth": 431,
+      "leftSideBearing": 22,
+      "xMin": 22,
+      "xMax": 415,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 613,
+      "charCode": 1078,
+      "advanceWidth": 898,
+      "leftSideBearing": -4,
+      "xMin": -4,
+      "xMax": 890,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 614,
+      "charCode": 1079,
+      "advanceWidth": 400,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 378,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 615,
+      "charCode": 1080,
+      "advanceWidth": 542,
+      "leftSideBearing": 34,
+      "xMin": 34,
+      "xMax": 512,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 616,
+      "charCode": 1081,
+      "advanceWidth": 542,
+      "leftSideBearing": 34,
+      "xMin": 34,
+      "xMax": 514,
+      "yMin": -9,
+      "yMax": 697
+    },
+    {
+      "glyphId": 617,
+      "charCode": 1082,
+      "advanceWidth": 522,
+      "leftSideBearing": 12,
+      "xMin": 12,
+      "xMax": 527,
+      "yMin": -8,
+      "yMax": 461
+    },
+    {
+      "glyphId": 618,
+      "charCode": 1083,
+      "advanceWidth": 507,
+      "leftSideBearing": -48,
+      "xMin": -48,
+      "xMax": 477,
+      "yMin": -11,
+      "yMax": 462
+    },
+    {
+      "glyphId": 619,
+      "charCode": 1084,
+      "advanceWidth": 667,
+      "leftSideBearing": -48,
+      "xMin": -48,
+      "xMax": 637,
+      "yMin": -11,
+      "yMax": 449
+    },
+    {
+      "glyphId": 620,
+      "charCode": 1085,
+      "advanceWidth": 543,
+      "leftSideBearing": 13,
+      "xMin": 13,
+      "xMax": 513,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 621,
+      "charCode": 1086,
+      "advanceWidth": 500,
+      "leftSideBearing": 24,
+      "xMin": 24,
+      "xMax": 468,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 622,
+      "charCode": 1087,
+      "advanceWidth": 543,
+      "leftSideBearing": 13,
+      "xMin": 13,
+      "xMax": 513,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 623,
+      "charCode": 1088,
+      "advanceWidth": 497,
+      "leftSideBearing": -96,
+      "xMin": -96,
+      "xMax": 470,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 624,
+      "charCode": 1089,
+      "advanceWidth": 435,
+      "leftSideBearing": 26,
+      "xMin": 26,
+      "xMax": 423,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 625,
+      "charCode": 1090,
+      "advanceWidth": 777,
+      "leftSideBearing": 10,
+      "xMin": 10,
+      "xMax": 747,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 626,
+      "charCode": 1091,
+      "advanceWidth": 447,
+      "leftSideBearing": -94,
+      "xMin": -94,
+      "xMax": 422,
+      "yMin": -205,
+      "yMax": 462
+    },
+    {
+      "glyphId": 627,
+      "charCode": 1092,
+      "advanceWidth": 750,
+      "leftSideBearing": 28,
+      "xMin": 28,
+      "xMax": 717,
+      "yMin": -205,
+      "yMax": 699
+    },
+    {
+      "glyphId": 628,
+      "charCode": 1093,
+      "advanceWidth": 456,
+      "leftSideBearing": -38,
+      "xMin": -38,
+      "xMax": 511,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 629,
+      "charCode": 1094,
+      "advanceWidth": 542,
+      "leftSideBearing": 34,
+      "xMin": 34,
+      "xMax": 512,
+      "yMin": -179,
+      "yMax": 462
+    },
+    {
+      "glyphId": 630,
+      "charCode": 1095,
+      "advanceWidth": 531,
+      "leftSideBearing": 48,
+      "xMin": 48,
+      "xMax": 501,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 631,
+      "charCode": 1096,
+      "advanceWidth": 800,
+      "leftSideBearing": 36,
+      "xMin": 36,
+      "xMax": 770,
+      "yMin": -9,
+      "yMax": 462
+    },
+    {
+      "glyphId": 632,
+      "charCode": 1097,
+      "advanceWidth": 800,
+      "leftSideBearing": 36,
+      "xMin": 36,
+      "xMax": 770,
+      "yMin": -179,
+      "yMax": 462
+    },
+    {
+      "glyphId": 633,
+      "charCode": 1098,
+      "advanceWidth": 594,
+      "leftSideBearing": 29,
+      "xMin": 29,
+      "xMax": 556,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 634,
+      "charCode": 1099,
+      "advanceWidth": 754,
+      "leftSideBearing": 43,
+      "xMin": 43,
+      "xMax": 724,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 635,
+      "charCode": 1100,
+      "advanceWidth": 491,
+      "leftSideBearing": 43,
+      "xMin": 43,
+      "xMax": 453,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 636,
+      "charCode": 1101,
+      "advanceWidth": 444,
+      "leftSideBearing": -12,
+      "xMin": -12,
+      "xMax": 405,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 637,
+      "charCode": 1102,
+      "advanceWidth": 740,
+      "leftSideBearing": 12,
+      "xMin": 12,
+      "xMax": 710,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 638,
+      "charCode": 1103,
+      "advanceWidth": 538,
+      "leftSideBearing": 2,
+      "xMin": 2,
+      "xMax": 508,
+      "yMin": -11,
+      "yMax": 449
+    },
+    {
+      "glyphId": 639,
+      "charCode": 1105,
+      "advanceWidth": 434,
+      "leftSideBearing": 22,
+      "xMin": 22,
+      "xMax": 487,
+      "yMin": -13,
+      "yMax": 655
+    },
+    {
+      "glyphId": 640,
+      "charCode": 1106,
+      "advanceWidth": 523,
+      "leftSideBearing": 12,
+      "xMin": 12,
+      "xMax": 490,
+      "yMin": -205,
+      "yMax": 699
+    },
+    {
+      "glyphId": 641,
+      "charCode": 1107,
+      "advanceWidth": 368,
+      "leftSideBearing": -8,
+      "xMin": -8,
+      "xMax": 456,
+      "yMin": -14,
+      "yMax": 697
+    },
+    {
+      "glyphId": 642,
+      "charCode": 1108,
+      "advanceWidth": 415,
+      "leftSideBearing": 22,
+      "xMin": 22,
+      "xMax": 450,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 643,
+      "charCode": 1109,
+      "advanceWidth": 389,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 352,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 644,
+      "charCode": 1110,
+      "advanceWidth": 278,
+      "leftSideBearing": 20,
+      "xMin": 20,
+      "xMax": 280,
+      "yMin": -9,
+      "yMax": 684
+    },
+    {
+      "glyphId": 645,
+      "charCode": 1111,
+      "advanceWidth": 278,
+      "leftSideBearing": 22,
+      "xMin": 22,
+      "xMax": 382,
+      "yMin": -9,
+      "yMax": 655
+    },
+    {
+      "glyphId": 646,
+      "charCode": 1112,
+      "advanceWidth": 278,
+      "leftSideBearing": -161,
+      "xMin": -161,
+      "xMax": 307,
+      "yMin": -207,
+      "yMax": 685
+    },
+    {
+      "glyphId": 647,
+      "charCode": 1113,
+      "advanceWidth": 694,
+      "leftSideBearing": -48,
+      "xMin": -48,
+      "xMax": 656,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 648,
+      "charCode": 1114,
+      "advanceWidth": 733,
+      "leftSideBearing": 12,
+      "xMin": 12,
+      "xMax": 695,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 649,
+      "charCode": 1115,
+      "advanceWidth": 556,
+      "leftSideBearing": 12,
+      "xMin": 12,
+      "xMax": 515,
+      "yMin": -9,
+      "yMax": 699
+    },
+    {
+      "glyphId": 650,
+      "charCode": 1116,
+      "advanceWidth": 522,
+      "leftSideBearing": 12,
+      "xMin": 12,
+      "xMax": 527,
+      "yMin": -8,
+      "yMax": 697
+    },
+    {
+      "glyphId": 651,
+      "charCode": 1118,
+      "advanceWidth": 447,
+      "leftSideBearing": -94,
+      "xMin": -94,
+      "xMax": 436,
+      "yMin": -205,
+      "yMax": 697
+    },
+    {
+      "glyphId": 652,
+      "charCode": 1119,
+      "advanceWidth": 538,
+      "leftSideBearing": 30,
+      "xMin": 30,
+      "xMax": 508,
+      "yMin": -179,
+      "yMax": 462
+    },
+    {
+      "glyphId": 653,
+      "charCode": 1122,
+      "advanceWidth": 761,
+      "leftSideBearing": 62,
+      "xMin": 62,
+      "xMax": 707,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 654,
+      "charCode": 1123,
+      "advanceWidth": 569,
+      "leftSideBearing": 20,
+      "xMin": 20,
+      "xMax": 531,
+      "yMin": -13,
+      "yMax": 699
+    },
+    {
+      "glyphId": 655,
+      "charCode": 1130,
+      "advanceWidth": 978,
+      "leftSideBearing": -22,
+      "xMin": -22,
+      "xMax": 918,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 656,
+      "charCode": 1131,
+      "advanceWidth": 844,
+      "leftSideBearing": -4,
+      "xMin": -4,
+      "xMax": 825,
+      "yMin": -13,
+      "yMax": 449
+    },
+    {
+      "glyphId": 657,
+      "charCode": 1138,
+      "advanceWidth": 722,
+      "leftSideBearing": 53,
+      "xMin": 53,
+      "xMax": 717,
+      "yMin": -18,
+      "yMax": 685
+    },
+    {
+      "glyphId": 658,
+      "charCode": 1139,
+      "advanceWidth": 500,
+      "leftSideBearing": 24,
+      "xMin": 24,
+      "xMax": 468,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 659,
+      "charCode": 1140,
+      "advanceWidth": 667,
+      "leftSideBearing": 66,
+      "xMin": 66,
+      "xMax": 750,
+      "yMin": -18,
+      "yMax": 678
+    },
+    {
+      "glyphId": 660,
+      "charCode": 1141,
+      "advanceWidth": 487,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 534,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 661,
+      "charCode": 1168,
+      "advanceWidth": 539,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 641,
+      "yMin": 0,
+      "yMax": 834
+    },
+    {
+      "glyphId": 662,
+      "charCode": 1169,
+      "advanceWidth": 360,
+      "leftSideBearing": 31,
+      "xMin": 31,
+      "xMax": 457,
+      "yMin": -9,
+      "yMax": 590
+    },
+    {
+      "glyphId": 663,
+      "charCode": 7808,
+      "advanceWidth": 889,
+      "leftSideBearing": 64,
+      "xMin": 64,
+      "xMax": 940,
+      "yMin": -18,
+      "yMax": 904
+    },
+    {
+      "glyphId": 664,
+      "charCode": 7809,
+      "advanceWidth": 667,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 614,
+      "yMin": -13,
+      "yMax": 697
+    },
+    {
+      "glyphId": 665,
+      "charCode": 7810,
+      "advanceWidth": 889,
+      "leftSideBearing": 64,
+      "xMin": 64,
+      "xMax": 940,
+      "yMin": -18,
+      "yMax": 904
+    },
+    {
+      "glyphId": 666,
+      "charCode": 7811,
+      "advanceWidth": 667,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 614,
+      "yMin": -13,
+      "yMax": 697
+    },
+    {
+      "glyphId": 667,
+      "charCode": 7812,
+      "advanceWidth": 889,
+      "leftSideBearing": 64,
+      "xMin": 64,
+      "xMax": 940,
+      "yMin": -18,
+      "yMax": 862
+    },
+    {
+      "glyphId": 668,
+      "charCode": 7813,
+      "advanceWidth": 667,
+      "leftSideBearing": 15,
+      "xMin": 15,
+      "xMax": 614,
+      "yMin": -13,
+      "yMax": 655
+    },
+    {
+      "glyphId": 669,
+      "charCode": 7922,
+      "advanceWidth": 611,
+      "leftSideBearing": 71,
+      "xMin": 71,
+      "xMax": 659,
+      "yMin": 0,
+      "yMax": 904
+    },
+    {
+      "glyphId": 670,
+      "charCode": 7923,
+      "advanceWidth": 444,
+      "leftSideBearing": -94,
+      "xMin": -94,
+      "xMax": 392,
+      "yMin": -205,
+      "yMax": 697
+    },
+    {
+      "glyphId": 671,
+      "charCode": 8208,
+      "advanceWidth": 333,
+      "leftSideBearing": -4,
+      "xMin": -4,
+      "xMax": 273,
+      "yMin": 166,
+      "yMax": 282
+    },
+    {
+      "glyphId": 672,
+      "charCode": 8209,
+      "advanceWidth": 333,
+      "leftSideBearing": -4,
+      "xMin": -4,
+      "xMax": 273,
+      "yMin": 166,
+      "yMax": 282
+    },
+    {
+      "glyphId": 673,
+      "charCode": 8210,
+      "advanceWidth": 500,
+      "leftSideBearing": -40,
+      "xMin": -40,
+      "xMax": 477,
+      "yMin": 166,
+      "yMax": 282
+    },
+    {
+      "glyphId": 674,
+      "charCode": 8211,
+      "advanceWidth": 500,
+      "leftSideBearing": -40,
+      "xMin": -40,
+      "xMax": 477,
+      "yMin": 178,
+      "yMax": 269
+    },
+    {
+      "glyphId": 675,
+      "charCode": 8212,
+      "advanceWidth": 1000,
+      "leftSideBearing": -40,
+      "xMin": -40,
+      "xMax": 977,
+      "yMin": 178,
+      "yMax": 269
+    },
+    {
+      "glyphId": 676,
+      "charCode": 8216,
+      "advanceWidth": 333,
+      "leftSideBearing": 128,
+      "xMin": 128,
+      "xMax": 332,
+      "yMin": 369,
+      "yMax": 685
+    },
+    {
+      "glyphId": 677,
+      "charCode": 8217,
+      "advanceWidth": 333,
+      "leftSideBearing": 98,
+      "xMin": 98,
+      "xMax": 302,
+      "yMin": 369,
+      "yMax": 685
+    },
+    {
+      "glyphId": 678,
+      "charCode": 8218,
+      "advanceWidth": 333,
+      "leftSideBearing": -5,
+      "xMin": -5,
+      "xMax": 199,
+      "yMin": -182,
+      "yMax": 134
+    },
+    {
+      "glyphId": 679,
+      "charCode": 8219,
+      "advanceWidth": 333,
+      "leftSideBearing": 128,
+      "xMin": 128,
+      "xMax": 302,
+      "yMin": 369,
+      "yMax": 685
+    },
+    {
+      "glyphId": 680,
+      "charCode": 8220,
+      "advanceWidth": 500,
+      "leftSideBearing": 53,
+      "xMin": 53,
+      "xMax": 513,
+      "yMin": 369,
+      "yMax": 685
+    },
+    {
+      "glyphId": 681,
+      "charCode": 8221,
+      "advanceWidth": 500,
+      "leftSideBearing": 53,
+      "xMin": 53,
+      "xMax": 513,
+      "yMin": 369,
+      "yMax": 685
+    },
+    {
+      "glyphId": 682,
+      "charCode": 8222,
+      "advanceWidth": 500,
+      "leftSideBearing": -57,
+      "xMin": -57,
+      "xMax": 403,
+      "yMin": -182,
+      "yMax": 134
+    },
+    {
+      "glyphId": 683,
+      "charCode": 8223,
+      "advanceWidth": 500,
+      "leftSideBearing": 92,
+      "xMin": 92,
+      "xMax": 513,
+      "yMin": 369,
+      "yMax": 685
+    },
+    {
+      "glyphId": 684,
+      "charCode": 8224,
+      "advanceWidth": 500,
+      "leftSideBearing": 91,
+      "xMin": 91,
+      "xMax": 494,
+      "yMin": -145,
+      "yMax": 685
+    },
+    {
+      "glyphId": 685,
+      "charCode": 8225,
+      "advanceWidth": 500,
+      "leftSideBearing": 10,
+      "xMin": 10,
+      "xMax": 493,
+      "yMin": -139,
+      "yMax": 685
+    },
+    {
+      "glyphId": 686,
+      "charCode": 8226,
+      "advanceWidth": 560,
+      "leftSideBearing": 70,
+      "xMin": 70,
+      "xMax": 490,
+      "yMin": 42,
+      "yMax": 462
+    },
+    {
+      "glyphId": 687,
+      "charCode": 8230,
+      "advanceWidth": 1000,
+      "leftSideBearing": 40,
+      "xMin": 40,
+      "xMax": 852,
+      "yMin": -13,
+      "yMax": 135
+    },
+    {
+      "glyphId": 688,
+      "charCode": 8240,
+      "advanceWidth": 1118,
+      "leftSideBearing": 80,
+      "xMin": 80,
+      "xMax": 1068,
+      "yMin": -29,
+      "yMax": 706
+    },
+    {
+      "glyphId": 689,
+      "charCode": 8241,
+      "advanceWidth": 1480,
+      "leftSideBearing": 80,
+      "xMin": 80,
+      "xMax": 1430,
+      "yMin": -29,
+      "yMax": 706
+    },
+    {
+      "glyphId": 690,
+      "charCode": 8249,
+      "advanceWidth": 333,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 303,
+      "yMin": 32,
+      "yMax": 415
+    },
+    {
+      "glyphId": 691,
+      "charCode": 8250,
+      "advanceWidth": 333,
+      "leftSideBearing": 10,
+      "xMin": 10,
+      "xMax": 281,
+      "yMin": 32,
+      "yMax": 415
+    },
+    {
+      "glyphId": 692,
+      "charCode": 8254,
+      "advanceWidth": 500,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 500,
+      "yMin": 766,
+      "yMax": 838
+    },
+    {
+      "glyphId": 693,
+      "charCode": 8260,
+      "advanceWidth": 183,
+      "leftSideBearing": -168,
+      "xMin": -168,
+      "xMax": 345,
+      "yMin": -12,
+      "yMax": 688
+    },
+    {
+      "glyphId": 694,
+      "charCode": 8355,
+      "advanceWidth": 668,
+      "leftSideBearing": -13,
+      "xMin": -13,
+      "xMax": 661,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 695,
+      "charCode": 8356,
+      "advanceWidth": 500,
+      "leftSideBearing": -32,
+      "xMin": -32,
+      "xMax": 510,
+      "yMin": -12,
+      "yMax": 683
+    },
+    {
+      "glyphId": 696,
+      "charCode": 8359,
+      "advanceWidth": 1229,
+      "leftSideBearing": -28,
+      "xMin": -28,
+      "xMax": 1173,
+      "yMin": -13,
+      "yMax": 669
+    },
+    {
+      "glyphId": 697,
+      "charCode": 8364,
+      "advanceWidth": 562,
+      "leftSideBearing": 34,
+      "xMin": 34,
+      "xMax": 546,
+      "yMin": -17,
+      "yMax": 681
+    },
+    {
+      "glyphId": 698,
+      "charCode": 8413,
+      "advanceWidth": 0,
+      "leftSideBearing": -753,
+      "xMin": -753,
+      "xMax": 256,
+      "yMin": -254,
+      "yMax": 760
+    },
+    {
+      "glyphId": 699,
+      "charCode": 8450,
+      "advanceWidth": 713,
+      "leftSideBearing": 35,
+      "xMin": 35,
+      "xMax": 704,
+      "yMin": -14,
+      "yMax": 685
+    },
+    {
+      "glyphId": 700,
+      "charCode": 8453,
+      "advanceWidth": 847,
+      "leftSideBearing": 52,
+      "xMin": 52,
+      "xMax": 795,
+      "yMin": -14,
+      "yMax": 683
+    },
+    {
+      "glyphId": 701,
+      "charCode": 8458,
+      "advanceWidth": 819,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 771,
+      "yMin": -224,
+      "yMax": 462
+    },
+    {
+      "glyphId": 702,
+      "charCode": 8459,
+      "advanceWidth": 1171,
+      "leftSideBearing": 65,
+      "xMin": 65,
+      "xMax": 1154,
+      "yMin": -21,
+      "yMax": 699
+    },
+    {
+      "glyphId": 703,
+      "charCode": 8461,
+      "advanceWidth": 773,
+      "leftSideBearing": 21,
+      "xMin": 21,
+      "xMax": 808,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 704,
+      "charCode": 8464,
+      "advanceWidth": 997,
+      "leftSideBearing": 47,
+      "xMin": 47,
+      "xMax": 977,
+      "yMin": -21,
+      "yMax": 699
+    },
+    {
+      "glyphId": 705,
+      "charCode": 8466,
+      "advanceWidth": 1036,
+      "leftSideBearing": 40,
+      "xMin": 40,
+      "xMax": 1015,
+      "yMin": -21,
+      "yMax": 699
+    },
+    {
+      "glyphId": 706,
+      "charCode": 8467,
+      "advanceWidth": 500,
+      "leftSideBearing": 43,
+      "xMin": 43,
+      "xMax": 632,
+      "yMin": -14,
+      "yMax": 699
+    },
+    {
+      "glyphId": 707,
+      "charCode": 8469,
+      "advanceWidth": 760,
+      "leftSideBearing": 27,
+      "xMin": 27,
+      "xMax": 783,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 708,
+      "charCode": 8470,
+      "advanceWidth": 1055,
+      "leftSideBearing": 24,
+      "xMin": 24,
+      "xMax": 1031,
+      "yMin": -15,
+      "yMax": 675
+    },
+    {
+      "glyphId": 709,
+      "charCode": 8473,
+      "advanceWidth": 497,
+      "leftSideBearing": 18,
+      "xMin": 18,
+      "xMax": 715,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 710,
+      "charCode": 8474,
+      "advanceWidth": 754,
+      "leftSideBearing": 35,
+      "xMin": 35,
+      "xMax": 734,
+      "yMin": -74,
+      "yMax": 685
+    },
+    {
+      "glyphId": 711,
+      "charCode": 8475,
+      "advanceWidth": 1048,
+      "leftSideBearing": 55,
+      "xMin": 55,
+      "xMax": 973,
+      "yMin": -21,
+      "yMax": 699
+    },
+    {
+      "glyphId": 712,
+      "charCode": 8477,
+      "advanceWidth": 727,
+      "leftSideBearing": 18,
+      "xMin": 18,
+      "xMax": 718,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 713,
+      "charCode": 8482,
+      "advanceWidth": 1000,
+      "leftSideBearing": 24,
+      "xMin": 24,
+      "xMax": 977,
+      "yMin": 271,
+      "yMax": 676
+    },
+    {
+      "glyphId": 714,
+      "charCode": 8484,
+      "advanceWidth": 807,
+      "leftSideBearing": 23,
+      "xMin": 23,
+      "xMax": 837,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 715,
+      "charCode": 8492,
+      "advanceWidth": 1060,
+      "leftSideBearing": 55,
+      "xMin": 55,
+      "xMax": 985,
+      "yMin": -21,
+      "yMax": 699
+    },
+    {
+      "glyphId": 716,
+      "charCode": 8495,
+      "advanceWidth": 726,
+      "leftSideBearing": 35,
+      "xMin": 35,
+      "xMax": 648,
+      "yMin": -14,
+      "yMax": 462
+    },
+    {
+      "glyphId": 717,
+      "charCode": 8496,
+      "advanceWidth": 826,
+      "leftSideBearing": 95,
+      "xMin": 95,
+      "xMax": 791,
+      "yMin": -21,
+      "yMax": 699
+    },
+    {
+      "glyphId": 718,
+      "charCode": 8497,
+      "advanceWidth": 1042,
+      "leftSideBearing": 65,
+      "xMin": 65,
+      "xMax": 1025,
+      "yMin": -21,
+      "yMax": 699
+    },
+    {
+      "glyphId": 719,
+      "charCode": 8499,
+      "advanceWidth": 1300,
+      "leftSideBearing": 60,
+      "xMin": 60,
+      "xMax": 1245,
+      "yMin": -21,
+      "yMax": 699
+    },
+    {
+      "glyphId": 720,
+      "charCode": 8500,
+      "advanceWidth": 848,
+      "leftSideBearing": 35,
+      "xMin": 35,
+      "xMax": 780,
+      "yMin": -14,
+      "yMax": 462
+    },
+    {
+      "glyphId": 721,
+      "charCode": 8508,
+      "advanceWidth": 730,
+      "leftSideBearing": 32,
+      "xMin": 32,
+      "xMax": 715,
+      "yMin": -13,
+      "yMax": 449
+    },
+    {
+      "glyphId": 722,
+      "charCode": 8511,
+      "advanceWidth": 796,
+      "leftSideBearing": 35,
+      "xMin": 35,
+      "xMax": 821,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 723,
+      "charCode": 8517,
+      "advanceWidth": 748,
+      "leftSideBearing": 18,
+      "xMin": 18,
+      "xMax": 733,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 724,
+      "charCode": 8518,
+      "advanceWidth": 633,
+      "leftSideBearing": 45,
+      "xMin": 45,
+      "xMax": 698,
+      "yMin": -13,
+      "yMax": 699
+    },
+    {
+      "glyphId": 725,
+      "charCode": 8519,
+      "advanceWidth": 575,
+      "leftSideBearing": 45,
+      "xMin": 45,
+      "xMax": 540,
+      "yMin": -13,
+      "yMax": 462
+    },
+    {
+      "glyphId": 726,
+      "charCode": 8520,
+      "advanceWidth": 379,
+      "leftSideBearing": 40,
+      "xMin": 40,
+      "xMax": 413,
+      "yMin": 0,
+      "yMax": 669
+    },
+    {
+      "glyphId": 727,
+      "charCode": 8521,
+      "advanceWidth": 421,
+      "leftSideBearing": -93,
+      "xMin": -93,
+      "xMax": 455,
+      "yMin": -205,
+      "yMax": 669
+    },
+    {
+      "glyphId": 728,
+      "charCode": 8531,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 729,
+      "charCode": 8532,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 730,
+      "charCode": 8533,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 731,
+      "charCode": 8534,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 732,
+      "charCode": 8535,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 733,
+      "charCode": 8536,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 734,
+      "charCode": 8537,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 735,
+      "charCode": 8538,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 736,
+      "charCode": 8539,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 737,
+      "charCode": 8540,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 738,
+      "charCode": 8541,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 739,
+      "charCode": 8542,
+      "advanceWidth": 1000,
+      "leftSideBearing": 0
+    },
+    {
+      "glyphId": 740,
+      "charCode": 8706,
+      "advanceWidth": 559,
+      "leftSideBearing": 44,
+      "xMin": 44,
+      "xMax": 559,
+      "yMin": -10,
+      "yMax": 686
+    },
+    {
+      "glyphId": 741,
+      "charCode": 8722,
+      "advanceWidth": 606,
+      "leftSideBearing": 51,
+      "xMin": 51,
+      "xMax": 555,
+      "yMin": 209,
+      "yMax": 297
+    },
+    {
+      "glyphId": 742,
+      "charCode": 9251,
+      "advanceWidth": 500,
+      "leftSideBearing": 40,
+      "xMin": 40,
+      "xMax": 460,
+      "yMin": -120,
+      "yMax": 31
+    },
+    {
+      "glyphId": 743,
+      "charCode": 9312,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 744,
+      "charCode": 9313,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 745,
+      "charCode": 9314,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 746,
+      "charCode": 9315,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 747,
+      "charCode": 9316,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 748,
+      "charCode": 9317,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 749,
+      "charCode": 9318,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 750,
+      "charCode": 9319,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 751,
+      "charCode": 9320,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 752,
+      "charCode": 9398,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 753,
+      "charCode": 9399,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 754,
+      "charCode": 9400,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 755,
+      "charCode": 9401,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 756,
+      "charCode": 9402,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 757,
+      "charCode": 9403,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 758,
+      "charCode": 9404,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 759,
+      "charCode": 9405,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 760,
+      "charCode": 9406,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 761,
+      "charCode": 9407,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 762,
+      "charCode": 9408,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 763,
+      "charCode": 9409,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 764,
+      "charCode": 9410,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 765,
+      "charCode": 9411,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 766,
+      "charCode": 9412,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 767,
+      "charCode": 9413,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 768,
+      "charCode": 9414,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 769,
+      "charCode": 9415,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 770,
+      "charCode": 9416,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 771,
+      "charCode": 9417,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 772,
+      "charCode": 9418,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 773,
+      "charCode": 9419,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 774,
+      "charCode": 9420,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 775,
+      "charCode": 9421,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 776,
+      "charCode": 9422,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 777,
+      "charCode": 9423,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 778,
+      "charCode": 9424,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 779,
+      "charCode": 9425,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 780,
+      "charCode": 9426,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 781,
+      "charCode": 9427,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 782,
+      "charCode": 9428,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 783,
+      "charCode": 9429,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 784,
+      "charCode": 9430,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 785,
+      "charCode": 9431,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 786,
+      "charCode": 9432,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 787,
+      "charCode": 9433,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 788,
+      "charCode": 9434,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 789,
+      "charCode": 9435,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 790,
+      "charCode": 9436,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 791,
+      "charCode": 9437,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 792,
+      "charCode": 9438,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 793,
+      "charCode": 9439,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 794,
+      "charCode": 9440,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 795,
+      "charCode": 9441,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 796,
+      "charCode": 9442,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 797,
+      "charCode": 9443,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 798,
+      "charCode": 9444,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 799,
+      "charCode": 9445,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 800,
+      "charCode": 9446,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 801,
+      "charCode": 9447,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 802,
+      "charCode": 9448,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 803,
+      "charCode": 9449,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 804,
+      "charCode": 9450,
+      "advanceWidth": 695,
+      "leftSideBearing": 0,
+      "xMin": 0,
+      "xMax": 695,
+      "yMin": -19,
+      "yMax": 690
+    },
+    {
+      "glyphId": 805,
+      "charCode": 9472,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": 267,
+      "yMax": 340
+    },
+    {
+      "glyphId": 806,
+      "charCode": 9474,
+      "advanceWidth": 696,
+      "leftSideBearing": 312,
+      "xMin": 312,
+      "xMax": 385,
+      "yMin": -303,
+      "yMax": 65233
+    },
+    {
+      "glyphId": 807,
+      "charCode": 9484,
+      "advanceWidth": 708,
+      "leftSideBearing": 318,
+      "xMin": 318,
+      "xMax": 720,
+      "yMin": -303,
+      "yMax": 340
+    },
+    {
+      "glyphId": 808,
+      "charCode": 9488,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 390,
+      "yMin": -303,
+      "yMax": 340
+    },
+    {
+      "glyphId": 809,
+      "charCode": 9492,
+      "advanceWidth": 708,
+      "leftSideBearing": 318,
+      "xMin": 318,
+      "xMax": 720,
+      "yMin": 267,
+      "yMax": 910
+    },
+    {
+      "glyphId": 810,
+      "charCode": 9496,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 390,
+      "yMin": 267,
+      "yMax": 910
+    },
+    {
+      "glyphId": 811,
+      "charCode": 9500,
+      "advanceWidth": 708,
+      "leftSideBearing": 318,
+      "xMin": 318,
+      "xMax": 720,
+      "yMin": 267,
+      "yMax": 65803
+    },
+    {
+      "glyphId": 812,
+      "charCode": 9508,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 390,
+      "yMin": -303,
+      "yMax": 910
+    },
+    {
+      "glyphId": 813,
+      "charCode": 9516,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": -303,
+      "yMax": 340
+    },
+    {
+      "glyphId": 814,
+      "charCode": 9524,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": 267,
+      "yMax": 910
+    },
+    {
+      "glyphId": 815,
+      "charCode": 9532,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": -303,
+      "yMax": 910
+    },
+    {
+      "glyphId": 816,
+      "charCode": 9552,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": 174,
+      "yMax": 433
+    },
+    {
+      "glyphId": 817,
+      "charCode": 9553,
+      "advanceWidth": 708,
+      "leftSideBearing": 225,
+      "xMin": 225,
+      "xMax": 484,
+      "yMin": -303,
+      "yMax": 130769
+    },
+    {
+      "glyphId": 818,
+      "charCode": 9554,
+      "advanceWidth": 708,
+      "leftSideBearing": 318,
+      "xMin": 318,
+      "xMax": 720,
+      "yMin": -303,
+      "yMax": 433
+    },
+    {
+      "glyphId": 819,
+      "charCode": 9555,
+      "advanceWidth": 708,
+      "leftSideBearing": 225,
+      "xMin": 225,
+      "xMax": 720,
+      "yMin": -303,
+      "yMax": 340
+    },
+    {
+      "glyphId": 820,
+      "charCode": 9556,
+      "advanceWidth": 708,
+      "leftSideBearing": 225,
+      "xMin": 225,
+      "xMax": 719,
+      "yMin": -303,
+      "yMax": 433
+    },
+    {
+      "glyphId": 821,
+      "charCode": 9557,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 390,
+      "yMin": -303,
+      "yMax": 433
+    },
+    {
+      "glyphId": 822,
+      "charCode": 9558,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 483,
+      "yMin": -303,
+      "yMax": 340
+    },
+    {
+      "glyphId": 823,
+      "charCode": 9559,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 483,
+      "yMin": -303,
+      "yMax": 433
+    },
+    {
+      "glyphId": 824,
+      "charCode": 9560,
+      "advanceWidth": 708,
+      "leftSideBearing": 318,
+      "xMin": 318,
+      "xMax": 720,
+      "yMin": 174,
+      "yMax": 910
+    },
+    {
+      "glyphId": 825,
+      "charCode": 9561,
+      "advanceWidth": 708,
+      "leftSideBearing": 225,
+      "xMin": 225,
+      "xMax": 720,
+      "yMin": 267,
+      "yMax": 910
+    },
+    {
+      "glyphId": 826,
+      "charCode": 9562,
+      "advanceWidth": 708,
+      "leftSideBearing": 225,
+      "xMin": 225,
+      "xMax": 719,
+      "yMin": 174,
+      "yMax": 910
+    },
+    {
+      "glyphId": 827,
+      "charCode": 9563,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 390,
+      "yMin": 174,
+      "yMax": 910
+    },
+    {
+      "glyphId": 828,
+      "charCode": 9564,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 483,
+      "yMin": 267,
+      "yMax": 910
+    },
+    {
+      "glyphId": 829,
+      "charCode": 9565,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 483,
+      "yMin": 174,
+      "yMax": 910
+    },
+    {
+      "glyphId": 830,
+      "charCode": 9566,
+      "advanceWidth": 708,
+      "leftSideBearing": 318,
+      "xMin": 318,
+      "xMax": 720,
+      "yMin": 174,
+      "yMax": 65710
+    },
+    {
+      "glyphId": 831,
+      "charCode": 9567,
+      "advanceWidth": 708,
+      "leftSideBearing": 225,
+      "xMin": 225,
+      "xMax": 720,
+      "yMin": 267,
+      "yMax": 130769
+    },
+    {
+      "glyphId": 832,
+      "charCode": 9568,
+      "advanceWidth": 708,
+      "leftSideBearing": 225,
+      "xMin": 225,
+      "xMax": 720,
+      "yMin": -303,
+      "yMax": 65783
+    },
+    {
+      "glyphId": 833,
+      "charCode": 9569,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 390,
+      "yMin": -303,
+      "yMax": 910
+    },
+    {
+      "glyphId": 834,
+      "charCode": 9570,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 483,
+      "yMin": -303,
+      "yMax": 66446
+    },
+    {
+      "glyphId": 835,
+      "charCode": 9571,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 483,
+      "yMin": -303,
+      "yMax": 65783
+    },
+    {
+      "glyphId": 836,
+      "charCode": 9572,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": -303,
+      "yMax": 433
+    },
+    {
+      "glyphId": 837,
+      "charCode": 9573,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": -303,
+      "yMax": 340
+    },
+    {
+      "glyphId": 838,
+      "charCode": 9574,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": -303,
+      "yMax": 433
+    },
+    {
+      "glyphId": 839,
+      "charCode": 9575,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": 174,
+      "yMax": 910
+    },
+    {
+      "glyphId": 840,
+      "charCode": 9576,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": 267,
+      "yMax": 910
+    },
+    {
+      "glyphId": 841,
+      "charCode": 9577,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": 174,
+      "yMax": 910
+    },
+    {
+      "glyphId": 842,
+      "charCode": 9578,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": -303,
+      "yMax": 910
+    },
+    {
+      "glyphId": 843,
+      "charCode": 9579,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": -303,
+      "yMax": 910
+    },
+    {
+      "glyphId": 844,
+      "charCode": 9580,
+      "advanceWidth": 708,
+      "leftSideBearing": -11,
+      "xMin": -11,
+      "xMax": 719,
+      "yMin": -303,
+      "yMax": 910
+    },
+    {
+      "glyphId": 845,
+      "charCode": 64256,
+      "advanceWidth": 613,
+      "leftSideBearing": -169,
+      "xMin": -169,
+      "xMax": 726,
+      "yMin": -205,
+      "yMax": 698
+    },
+    {
+      "glyphId": 846,
+      "charCode": 64257,
+      "advanceWidth": 556,
+      "leftSideBearing": -188,
+      "xMin": -188,
+      "xMax": 514,
+      "yMin": -205,
+      "yMax": 703
+    },
+    {
+      "glyphId": 847,
+      "charCode": 64258,
+      "advanceWidth": 556,
+      "leftSideBearing": -186,
+      "xMin": -186,
+      "xMax": 553,
+      "yMin": -205,
+      "yMax": 704
+    },
+    {
+      "glyphId": 848,
+      "charCode": 64259,
+      "advanceWidth": 856,
+      "leftSideBearing": -169,
+      "xMin": -169,
+      "xMax": 814,
+      "yMin": -205,
+      "yMax": 703
+    },
+    {
+      "glyphId": 849,
+      "charCode": 64260,
+      "advanceWidth": 854,
+      "leftSideBearing": -169,
+      "xMin": -169,
+      "xMax": 851,
+      "yMin": -205,
+      "yMax": 704
+    },
+    {
+      "glyphId": 0,
+      "charCode": 65535,
+      "advanceWidth": 500,
+      "leftSideBearing": 0,
+      "xMin": 50,
+      "xMax": 450,
+      "yMin": 0,
+      "yMax": 500
+    }
+  ]
+}

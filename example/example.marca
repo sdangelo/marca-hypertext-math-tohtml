@@ -1,0 +1,216 @@
+{blockpt output="html":
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style type="text/css">
+td \{text-align: center; font-size: 20px\}
+math, math * \{font-family: "XITS Math"\}
+svg, svg * \{font-size: 1px; font-family: XITS\}
+svg \{--font-size: 20px\}
+svg \{width: calc( var(--font-size) * var(--viewbox-width) )\}
+svg \{height: calc( var(--font-size) * var(--viewbox-height) )\}
+svg \{vertical-align: calc( var(--font-size) * var(--viewbox-yMin) )\}
+svg \{margin-left: calc( var(--font-size) * var(--viewbox-xMin) )\}
+svg \{margin-right: calc( var(--font-size) * (var(--viewbox-xAdvanceMax) - var(--viewbox-xMax)) )\}
+.math-italic \{font-style: italic\}
+.math-bold \{font-weight: bold\}
+</style>
+</head>
+<body>
+}
+{table:
+  {thead:
+    {tr:
+      {td:}
+      {td: TeX}
+      {td: MathML}
+      {td: Marca-math}}
+  }
+  {tbody:
+    {tr:
+      {td: 1}
+      {td: {figure src="ex1.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mrow></math>}}
+      {td: {m: {msup: x {mr: 2}}{msup: y {mr: 2}}}}
+    }
+    {tr:
+      {td: 2}
+      {td: {figure src="ex2.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mmultiscripts><mi>F</mi><mn>3</mn><none/><mprescripts/><mn>2</mn><none/></mmultiscripts></mrow></math>}}
+      {td: {m: {mscr pos="bl br": F {mr: 2} {mr: 3}}}}
+    }
+    {tr:
+      {td: 3}
+      {td: {figure src="ex3.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mfrac><mrow><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></math>}}
+      {td: {m: {mfrac: {mx: x + {msup: y {mr: 2}}} {mx: k + {mr: 1}}}}}
+    }
+    {tr:
+      {td: 4}
+      {td: {figure src="ex4.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mi>x</mi><mo>+</mo><msup><mi>y</mi><mfrac><mn>2</mn><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow></mfrac></msup></mrow></math>}}
+      {td: {m: x + {msup: y {mfrac: {mr: 2} {mx: k + {mr: 1}}}}}}
+    }
+    {tr:
+      {td: 5}
+      {td: {figure src="ex5.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mfrac><mi>a</mi><mrow><mi>b</mi><mo>/</mo><mn>2</mn></mrow></mfrac></mrow></math>}}
+      {td: {m: {mfrac: a {mx: b{mr: /2}}}}}
+    }
+    {tr:
+      {td: 6}
+      {td: {figure src="ex6.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><msub><mi>a</mi><mn>0</mn></msub><mo>+</mo><mfrac><mn>1</mn><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mfrac><mn>1</mn><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mn>2</mn></msub><mo>+</mo><mfrac><mn>1</mn><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mn>3</mn></msub><mo>+</mo><mfrac><mn>1</mn><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mn>4</mn></msub></mstyle></mfrac></mstyle></mfrac></mstyle></mfrac></mstyle></mfrac></mrow></math>}}
+      {td: {m: {msub: a {mr: 0}} + {mfrac: {mr: 1} {mx: {msub: a {mr: 1}} + {mfrac: {mr: 1} {mx: {msub: a {mr: 2}} + {mfrac: {mr: 1} {mx: {msub: a {mr: 3}} + {mfrac: {mr: 1} {msub: a {mr: 4}}}}}}}}}}}
+    }
+    {tr:
+      {td: 7}
+      {td: {figure src="ex7.png":}}
+      {td: {blockpt output="html": <math><mrow><msub><mi>a</mi><mn>0</mn></msub><mo>+</mo><mfrac><mn>1</mn><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mfrac><mn>1</mn><mrow><msub><mi>a</mi><mn>2</mn></msub><mo>+</mo><mfrac><mn>1</mn><mrow><msub><mi>a</mi><mn>3</mn></msub><mo>+</mo><mfrac><mn>1</mn><mrow><msub><mi>a</mi><mn>4</mn></msub></mrow></mfrac></mrow></mfrac></mrow></mfrac></mrow></mfrac></mrow></math>}}
+      {td: {m: {msub: a {mr: 0}} + {mstack stretched="yes no no" shifted="no": − {mr: 1} {mx: {msub: a {mr: 1}} + {mstack stretched="yes no no" shifted="no": − {mr: 1} {mx: {msub: a {mr: 2}} + {mfrac: {mr: 1} {mx: {msub: a {mr: 3}} + {mfrac: {mr: 1} {msub: a {mr: 4}}}}}}}}}}}
+    }
+    {tr:
+      {td: 8}
+      {td: {figure src="ex8.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mo>(</mo><mfrac linethickness="0px"><mi>n</mi><mrow><mi>k</mi><mo>/</mo><mn>2</mn></mrow></mfrac><mo>)</mo></mrow></math>}}
+      {td: {m: {mgrid size="2 1" delims="( )": n {mx: k{mr:/2}}}}}
+    }
+    {tr:
+      {td: 9}
+      {td: {figure src="ex9.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mrow><mo>(</mo><mfrac linethickness="0px"><mi>p</mi><mn>2</mn></mfrac><mo>)</mo></mrow><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mrow><mi>p</mi><mo>-</mo><mn>2</mn></mrow></msup><mo>-</mo><mfrac><mn>1</mn><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></mfrac><mfrac><mn>1</mn><mrow><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac></mrow></math>}}
+      {td: {m: {mgrid size="2 1" delims="( )": p {mr: 2}}{msup: x {mr: 2}}{msup: y {mx: p−{mr: 2}}} − {mfrac: {mr: 1} {mx: {mr: 1} − x}} {mfrac: {mr: 1} {mx: {mr: 1} − {msup: x {mr: 2}}}}}}
+    }
+    {tr:
+      {td: 10}
+      {td: {figure src="ex10.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><munder><mo>∑</mo><mrow><mfrac linethickness="0px"><mrow><mn>0</mn><mo>≤</mo><mi>i</mi><mo>≤</mo><mi>m</mi></mrow><mrow><mn>0</mn><mo>&lt;</mo><mi>j</mi><mo>&lt;</mo><mi>n</mi></mrow></mfrac></mrow></munder><mi>P</mi><mo stretchy="false">(</mo><mi>i</mi><mo>,</mo><mi>j</mi><mo stretchy="false">)</mo></mrow></math>}}
+      {td: {m: {mstack pos="u" shifted="no": {mr big="yes": ∑} {mstack pos="u" scaled="no": {mx: {mr:0≤}i{mr:≤}m} {mx: {mr:0<}j{mr:<}n}}} P{mx delims="( )":i, j}}}
+    }
+    {tr:
+      {td: 11}
+      {td: {figure src="ex11.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><msup><mi>x</mi><mrow><mn>2</mn><mi>y</mi></mrow></msup></mrow></math>}}
+      {td: {m: {msup: x {mx: {mr:2}y}}}}
+    }
+    {tr:
+      {td: 12}
+      {td: {figure src="ex12.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>p</mi></munderover><munderover><mo>∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>q</mi></munderover><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>r</mi></munderover><msub><mi>a</mi><mrow><mi>i</mi><mi>j</mi></mrow></msub><msub><mi>b</mi><mrow><mi>j</mi><mi>k</mi></mrow></msub><msub><mi>c</mi><mrow><mi>k</mi><mi>i</mi></mrow></msub></mrow></math>}}
+      {td: {m: {mstack shifted="no": {mr big="yes": ∑} p {mx: i = {mr: 1}}}{mstack shifted="no": {mr big="yes": ∑} q {mx: j = {mr: 1}}}{mstack shifted="no": {mr big="yes": ∑} r {mx: k = {mr: 1}}}{msub: a ij}{msub: b jk}{msub: c ki}}}
+    }
+    {tr:
+      {td: 13}
+      {td: {figure src="ex13.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><msqrt><mn>1</mn><mo>+</mo><msqrt><mn>1</mn><mo>+</mo><msqrt><mn>1</mn><mo>+</mo><msqrt><mn>1</mn><mo>+</mo><msqrt><mn>1</mn><mo>+</mo><msqrt><mn>1</mn><mo>+</mo><msqrt><mn>1</mn><mo>+</mo><mi>x</mi></msqrt></msqrt></msqrt></msqrt></msqrt></msqrt></msqrt></mrow></math>}}
+      {td: {m: {mroot: {mx: {mr: 1} + {mroot: {mx: {mr: 1} + {mroot: {mx: {mr: 1} + {mroot: {mx: {mr: 1} + {mroot: {mx: {mr: 1} + {mroot: {mx: {mr: 1} + {mroot: {mx: {mr: 1} + x}}}}}}}}}}}}}}}}
+    }
+    {tr:
+      {td: 14}
+      {td: {figure src="ex14.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mrow><mo>(</mo><mfrac><msup><mo>∂</mo><mn>2</mn></msup><mrow><mo>∂</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mfrac><msup><mo>∂</mo><mn>2</mn></msup><mrow><mo>∂</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mfrac><mo>)</mo></mrow><msup><mrow><mo minsize="150%">|</mo><mi>φ</mi><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi mathvariant="normal">i</mi><mi>y</mi><mo stretchy="false">)</mo><mo minsize="150%">|</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>0</mn></mrow></math>}}
+      {td: {m: {mx delims="( )": {mfrac: {msup: {mr: ∂} {mr: 2}} {mx: {mr:∂}{msup: x {mr: 2}}}} + {mfrac: {msup: {mr :∂} {mr: 2}} {mx: {mr:∂}{msup: y {mr: 2}}}}}{msup: {mx delims="∣ ∣": φ{mx delims="( )":x + iy}} {mr: 2}} = {mr: 0}}}
+    }
+    {tr:
+      {td: 15}
+      {td: {figure src="ex15.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><msup><mn>2</mn><msup><mn>2</mn><msup><mn>2</mn><mi>x</mi></msup></msup></msup></mrow></math>}}
+      {td: {m: {msup: {mr: 2} {msup: {mr: 2} {msup scaled="no": {mr: 2} x}}}}}
+    }
+    {tr:
+      {td: 16}
+      {td: {figure src="ex16.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><msubsup><mo stretchy="false">∫</mo><mn>1</mn><mi>x</mi></msubsup><mfrac><mrow><mi>d</mi><mi>t</mi></mrow><mi>t</mi></mfrac></mrow></math>}}
+      {td: {m: {mscr pos="br tr": {mr big="yes": ∫} {mr: 1} x} {mfrac: dt t}}}
+    }
+    {tr:
+      {td: 17}
+      {td: {figure src="ex17.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><msub><mo>∬</mo><mi>D</mi></msub><mi>d</mi><mi>x</mi><mspace width="thinmathspace"/><mi>d</mi><mi>y</mi></mrow></math>}}
+      {td: {m: {msub: {mr big="yes": ∬} D} dx dy}}
+    }
+    {tr:
+      {td: 18}
+      {td: {figure src="ex18.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>\{</mo><mtable><mtr><mtd columnalign="center"><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></mtd><mtd columnalign="left"><mrow><mtext>if</mtext><mn>0</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>1</mn><mo>;</mo></mrow></mtd></mtr><mtr><mtd columnalign="center"><mrow><mn>2</mn><mo>/</mo><mn>3</mn></mrow></mtd><mtd columnalign="center"><mrow><mtext>if</mtext><mn>3</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>4</mn><mo>;</mo></mrow></mtd></mtr><mtr><mtd columnalign="center"><mn>0</mn></mtd><mtd columnalign="left"><mtext>elsewhere.</mtext></mtd></mtr></mtable></mrow></mrow></math>}}
+      {td: {m: f{mx delims="( )": x} = {mgrid delimL="{" size="3 2" align="l": {mr: 1/3} {mr: if 0 ≤ {mi: x} ≤ 1;} {mr: 2/3} {mr: if 3 ≤ {mi: x} ≤ 4;} {mr: 0} {mr: elsewhere.}}}}
+    }
+    {tr:
+      {td: 19}
+      {td: {figure src="ex19.png":}}
+      {td: {blockpt output="html": <math display="block"><mover><mrow><mi>x</mi><mo>+</mo><mo>...</mo><mo>+</mo><mi>x</mi></mrow><mover><mo>⏞</mo><mrow><mi>k</mi><mspace width="thinmathspace"/><mtext>times</mtext></mrow></mover></mover></math>}}
+      {td: {m: {mstack pos="o" shifted="no": {mstack pos="o" stretched="no yes" shifted="no": {mx: x + {mr: ⋯} + x} {mr: ⏞}} {mx: k {mr: times}}}}}
+    }
+    {tr:
+      {td: 20}
+      {td: {figure src="ex20.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><msub><mi>y</mi><msup><mi>x</mi><mn>2</mn></msup></msub></mrow></math>}}
+      {td: {m: {msub: y {msup: x {mr: 2}}}}}
+    }
+    {tr:
+      {td: 21}
+      {td: {figure src="ex21.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><munder><mo>∑</mo><mrow><mi>p</mi><mtext>prime</mtext></mrow></munder><mi>f</mi><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">)</mo><mo>=</mo><msub><mo stretchy="false">∫</mo><mrow><mi>t</mi><mo>&gt;</mo><mn>1</mn></mrow></msub><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mspace width="thinmathspace"/><mi>d</mi><mi>π</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math>}}
+      {td: {m: {mstack pos="u" shifted="no": {mr big="yes": ∑} {mx: p {mr: prime}}} f{mx delims="( )": p} = {msub: {mr big="yes": ∫} {mx: t>{mr:1}}} f{mx delims="( )":t} d{mr:π}{mx delims="( )":t}}}
+    }
+    {tr:
+      {td: 22}
+      {td: {figure src="ex22.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mo stretchy="false">\{</mo><munder><mrow><mover><mrow><mpadded width="0em"><mphantom><mo>(</mo></mphantom></mpadded><mi>a</mi><mo>,</mo><mo>...</mo><mo>,</mo><mi>a</mi></mrow><mover><mo>⏞</mo><mrow><mi>k</mi><mtext></mtext><mi>a</mi><mtext>'s</mtext></mrow></mover></mover><mo>,</mo><mover><mrow><mpadded width="0em"><mphantom><mo>(</mo></mphantom></mpadded><mi>b</mi><mo>,</mo><mo>...</mo><mo>,</mo><mi>b</mi></mrow><mover><mo>⏞</mo><mrow><mi>ℓ</mi><mtext></mtext><mi>b</mi><mtext>'s</mtext></mrow></mover></mover></mrow><munder><mo>⏟</mo><mrow><mi>k</mi><mo>+</mo><mi>ℓ</mi><mtext>elements</mtext></mrow></munder></munder><mo stretchy="false">\}</mo></mrow></math>}}
+      {td: {m: {mr:\{}{mstack pos="u" shifted="no": {mstack pos="u" stretched="no yes" shifted="no": {mx: {mstack pos="o" shifted="no": {mstack pos="o" stretched="no yes" shifted="no": {mx: a,...,a} {mr: ⏞}} {mx: k a’s}} {mstack pos="o" shifted="no": {mstack pos="o" stretched="no yes" shifted="no": {mx: b,...,b} {mr: ⏞}} {mx: l b’s}}} {mr: ⏟}} {mx: k+l {mr: elements}}}{mr:\}}}}
+    }
+    {tr:
+      {td: 23}
+      {td: {figure src="ex23.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mo>(</mo><mtable><mtr><mtd columnalign="center"><mrow><mo>(</mo><mtable><mtr><mtd columnalign="center"><mi>a</mi></mtd><mtd columnalign="center"><mi>b</mi></mtd></mtr><mtr><mtd columnalign="center"><mi>c</mi></mtd><mtd columnalign="center"><mi>d</mi></mtd></mtr></mtable><mo>)</mo></mrow></mtd><mtd columnalign="center"><mrow><mo>(</mo><mtable><mtr><mtd columnalign="center"><mi>e</mi></mtd><mtd columnalign="center"><mi>f</mi></mtd></mtr><mtr><mtd columnalign="center"><mi>g</mi></mtd><mtd columnalign="center"><mi>h</mi></mtd></mtr></mtable><mo>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="center"><mn>0</mn></mtd><mtd columnalign="center"><mrow><mo>(</mo><mtable><mtr><mtd columnalign="center"><mi>i</mi></mtd><mtd columnalign="center"><mi>j</mi></mtd></mtr><mtr><mtd columnalign="center"><mi>k</mi></mtd><mtd columnalign="center"><mi>l</mi></mtd></mtr></mtable><mo>)</mo></mrow></mtd></mtr></mtable><mo>)</mo></mrow></math>}}
+      {td: {m: {mgrid size="2 2" delims="( )": {mgrid size="2 2" delims="( )": a b c d} {mgrid size="2 2" delims="( )": e f g h} {mr: 0} {mgrid size="2 2" delims="( )": i j k l}}}}
+    }
+    {tr:
+      {td: 24}
+      {td: {figure src="ex24.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><mi>det</mi><mo>|</mo><mtable><mtr><mtd columnalign="center"><msub><mi>c</mi><mn>0</mn></msub></mtd><mtd columnalign="center"><msub><mi>c</mi><mn>1</mn></msub></mtd><mtd columnalign="center"><msub><mi>c</mi><mn>2</mn></msub></mtd><mtd columnalign="center"><mo>…</mo></mtd><mtd columnalign="center"><msub><mi>c</mi><mi>n</mi></msub></mtd></mtr><mtr><mtd columnalign="center"><msub><mi>c</mi><mn>1</mn></msub></mtd><mtd columnalign="center"><msub><mi>c</mi><mn>2</mn></msub></mtd><mtd columnalign="center"><msub><mi>c</mi><mn>3</mn></msub></mtd><mtd columnalign="center"><mo>…</mo></mtd><mtd columnalign="center"><msub><mi>c</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></mtd></mtr><mtr><mtd columnalign="center"><msub><mi>c</mi><mn>2</mn></msub></mtd><mtd columnalign="center"><msub><mi>c</mi><mn>3</mn></msub></mtd><mtd columnalign="center"><msub><mi>c</mi><mn>4</mn></msub></mtd><mtd columnalign="center"><mo>…</mo></mtd><mtd columnalign="center"><msub><mi>c</mi><mrow><mi>n</mi><mo>+</mo><mn>2</mn></mrow></msub></mtd></mtr><mtr><mtd columnalign="center"><mo>⋮</mo></mtd><mtd columnalign="center"><mo>⋮</mo></mtd><mtd columnalign="center"><mo>⋮</mo></mtd><mtd columnalign="center"></mtd><mtd columnalign="center"><mo>⋮</mo></mtd></mtr><mtr><mtd columnalign="center"><msub><mi>c</mi><mi>n</mi></msub></mtd><mtd columnalign="center"><msub><mi>c</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></mtd><mtd columnalign="center"><msub><mi>c</mi><mrow><mi>n</mi><mo>+</mo><mn>2</mn></mrow></msub></mtd><mtd columnalign="center"><mo>…</mo></mtd><mtd columnalign="center"><msub><mi>c</mi><mrow><mn>2</mn><mi>n</mi></mrow></msub></mtd></mtr></mtable><mo>|</mo><mo>&gt;</mo><mn>0</mn></mrow></math>}}
+      {td: {m: {mr: det} {mgrid size="5 5" delims="∣ ∣" align="l": {msub: c {mr: 0}} {msub: c {mr: 1}} {msub: c {mr: 2}} {mr: ⋯} {msub: c n} {msub: c {mr: 1}} {msub: c {mr: 2}} {msub: c {mr: 3}} {mr: ⋯} {msub: c {mx: n+{mr:1}}} {msub: c {mr: 2}} {msub: c {mr: 3}} {msub: c {mr: 4}} {mr: ⋯} {msub: c {mx: n+{mr:2}}} {mr: ⋮}  {mr: ⋮}  {mr: ⋮} {ms: } {mr: ⋮} {msub: c n} {msub: c {mx: n+{mr:1}}} {msub: c {mx: n+{mr:2}}} {mr: ⋯} {msub: c {mx: {mr:2}n}}} > {mr: 0}}}
+    }
+    {tr:
+      {td: 25}
+      {td: {figure src="ex25.png":}}
+      {td: {blockpt output="html": <math display="block"><msub><mi>y</mi><msub><mi>x</mi><mn>2</mn></msub></msub></math>}}
+      {td: {m: {msub: y {msub: x {mr: 2}}}}}
+    }
+    {tr:
+      {td: 26}
+      {td: {figure src="ex26.png":}}
+      {td: {blockpt output="html": <math display="block"><mrow><msubsup><mi>x</mi><mn>92</mn><mn>31415</mn></msubsup><mo>+</mo><mi>π</mi></mrow></math>}}
+      {td: {m: {mscr pos="br tr": x {mr: 92} {mr: 31415}} + π}}
+    }
+    {tr:
+      {td: 27}
+      {td: {figure src="ex27.png":}}
+      {td: {blockpt output="html": <math display="block"><msubsup><mi>x</mi><msubsup><mi>y</mi><mi>b</mi><mi>a</mi></msubsup><msubsup><mi>z</mi><mi>c</mi><mi>d</mi></msubsup></msubsup></math>}}
+      {td: {m: {mscr pos="br tr": x {mscr pos="br tr": y b a} {mscr pos="br tr": z c d}}}}
+    }
+    {tr:
+      {td: 28}
+      {td: {figure src="ex28.png":}}
+      {td: {blockpt output="html": <math display="block"><msubsup><mi>y</mi><mn>3</mn><mo>‴</mo></msubsup></math>}}
+      {td: {m: {msub: y {mr: 3}}‴}}
+    }
+    {tr:
+      {td: 29}
+      {td: {figure src="ex29.png":}}
+      {td: {blockpt output="html": <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><munder><mo lspace="0em" rspace="0em">lim</mo><mrow><mi>n</mi><mo stretchy="false">→</mo><mo>+</mo><mn>∞</mn></mrow></munder><mfrac><msqrt><mrow><mn>2</mn><mi>π</mi><mi>n</mi></mrow></msqrt><mrow><mi>n</mi><mo>!</mo></mrow></mfrac><msup><mrow><mo>(</mo><mfrac><mi>n</mi><mi>e</mi></mfrac><mo>)</mo></mrow><mi>n</mi></msup></mrow><mo>=</mo><mn>1</mn></math>}}
+      {td: {m: {mstack pos="u" shifted="no": {mr: lim} {mr: {mi: n}→+∞}} {mfrac: {mroot: {mx: {mr:2π}n}} {mx: n{mr:!}}} {msup: {mfrac delims="( )": n e} n} = {mr: 1}}}
+    }
+    {tr:
+      {td: 30}
+      {td: {figure src="ex30.png":}}
+      {td: {blockpt output="html": <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mrow><mo lspace="0em" rspace="0em">det</mo><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo></mrow><mo>=</mo><munder><mo>∑</mo><mrow><mi>σ</mi><mo>∊</mo><msub><mi>S</mi><mi>n</mi></msub></mrow></munder><mrow><mi>ϵ</mi><mo stretchy="false">(</mo><mi>σ</mi><mo stretchy="false">)</mo></mrow><mrow><munderover><mo>∏</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>a</mi><mrow><mi>i</mi><mo>,</mo><msub><mi>σ</mi><mi>i</mi></msub></mrow></msub></mrow></mrow></math>}}
+      {td: {m: {mr:det}{mx delims="( )":A} = {mstack pos="u" shifted="no": {mr big="yes": ∑} {mx: σ{mr:∈}{msub: S n}}} ε{mx delims="( )":σ}{mstack shifted="no": {mr big="yes": ∏} n {mx: i = {mr: 1}}}{msub: a {mx: i,{msub: σ i}}}}}
+    }
+  }
+}
+{blockpt output="html":
+</body>
+</html>
+}
