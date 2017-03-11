@@ -22,26 +22,34 @@ module.exports = function (Marca) {
 		var l = k.layout(opt.mathMetrics);
 		var w = l.xMax - l.xMin;
 		var h = l.yMax - l.yMin;
+		var sc = opt.mathScale ? opt.mathScale : 16;
+		var m = "mathMargin" in opt ? opt.mathMargin : 5;
+		var m2 = m + m;
 		var s = (new Array(indent + 1)).join("  ")
 			+ '<svg' + Marca.genericAttrsToHTML(this)
-			+ ' viewBox="' + l.xMin + ' ' + (-l.yMax)
-			+ ' ' + w + ' ' + h + '"'
+			+ ' viewBox="' + (sc * l.xMin - m)
+			+ ' ' + (-sc * l.yMax - m)
+			+ ' ' + (sc * w + m2) + ' ' + (sc * h + m2) + '"'
 			// for old browsers
-			+ ' width="' + w + '" height="' + h + '"'
-			+ ' style="font-size: 1px; --viewbox-width: ' + w
-			+ '; --viewbox-height:' + h
-			+ '; --viewbox-xMin: ' + l.xMin
-			+ '; --viewbox-xMax: ' + l.xMax
-			+ '; --viewbox-yMin: ' + l.yMin
-			+ '; --viewbox-yMax: ' + l.yMax
-			+ '; --viewbox-xAdvanceMax: ' + l.xAdvanceMax + '">';
+			+ ' width="' + (sc * w + m2)
+			+ '" height="' + (sc * h + m2) + '"'
+			+ ' style="font-size: ' + sc + 'px'
+			+ '; --viewbox-width: ' + (sc * w + m2) + 'px'
+			+ '; --viewbox-height:' + (sc * h + m2) + 'px'
+			+ '; --viewbox-margin:' + m + 'px'
+			+ '; --viewbox-xMin: ' + (sc * l.xMin) + 'px'
+			+ '; --viewbox-xMax: ' + (sc * l.xMax) + 'px'
+			+ '; --viewbox-yMin: ' + (sc * l.yMin) + 'px'
+			+ '; --viewbox-yMax: ' + (sc * l.yMax) + 'px'
+			+ '; --viewbox-xAdvanceMax: '
+			+ (sc * l.xAdvanceMax) + 'px' + '">';
 		if (Object.keys(this.definitions).length != 0) {
 			s += '<defs>';
 			for (var d in k.definitions)
 				s += k.definitions[d].layout(opt.mathMetrics)
-					.toSVG(opt.mathClassPrefix);
+					.toSVG(opt.mathClassPrefix, sc);
 			s += '</defs>';
 		}
-		return s + l.toSVG(opt.mathClassPrefix) + '</svg>';
+		return s + l.toSVG(opt.mathClassPrefix, sc) + '</svg>';
 	};
 };
