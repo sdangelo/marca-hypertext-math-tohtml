@@ -1,6 +1,6 @@
 {
   "name": "marca-hypertext-math-tohtml",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hypertext+math-to-HTML for Marca",
   "main": "marca-hypertext-math-tohtml.js",
   "scripts": {
@@ -30,7 +30,7 @@
   },
   "peerDependencies": {
     "marca-hypertext-math": "0.1.x",
-    "marca-hypertext-tohtml": "0.1.x",
+    "marca-hypertext-tohtml": "0.1.x >=0.1.1",
     "marca-math-tokroton": "0.1.x",
     "kroton-tosvg": "0.0.x"
   }
