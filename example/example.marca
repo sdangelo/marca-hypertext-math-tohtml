@@ -10,9 +10,11 @@ svg, svg * \{font-family: XITS\}
 svg \{--math-scale: 1\}
 svg \{width: calc( var(--math-scale) * var(--viewbox-width) )\}
 svg \{height: calc( var(--math-scale) * var(--viewbox-height) )\}
-svg \{vertical-align: calc( var(--math-scale) * var(--viewbox-yMin) - var(--viewbox-margin) )\}
+svg \{vertical-align: calc( var(--math-scale) * var(--viewbox-yMin) )\}
 svg \{margin-left: calc( var(--math-scale) * var(--viewbox-xMin) - var(--viewbox-margin) )\}
 svg \{margin-right: calc( var(--math-scale) * (var(--viewbox-xAdvanceMax) - var(--viewbox-xMax)) - var(--viewbox-margin) )\}
+svg \{margin-top: calc( 0px - var(--viewbox-margin) )\}
+svg \{margin-bottom: calc( 0px - var(--viewbox-margin) )\}
 .math-italic \{font-style: italic\}
 .math-bold \{font-weight: bold\}
 </style>

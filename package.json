@@ -1,6 +1,6 @@
 {
   "name": "marca-hypertext-math-tohtml",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Hypertext+math-to-HTML for Marca",
   "main": "marca-hypertext-math-tohtml.js",
   "scripts": {

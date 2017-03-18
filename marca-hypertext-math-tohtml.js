@@ -25,24 +25,27 @@ module.exports = function (Marca) {
 		var sc = opt.mathScale ? opt.mathScale : 16;
 		var m = "mathMargin" in opt ? opt.mathMargin : 5;
 		var m2 = m + m;
+		var u = "mathUnits" in opt ? opt.mathUnits : "px";
 		var s = (new Array(indent + 1)).join("  ")
 			+ '<svg' + Marca.genericAttrsToHTML(this)
 			+ ' viewBox="' + (sc * l.xMin - m)
 			+ ' ' + (-sc * l.yMax - m)
 			+ ' ' + (sc * w + m2) + ' ' + (sc * h + m2) + '"'
 			// for old browsers
-			+ ' width="' + (sc * w + m2)
-			+ '" height="' + (sc * h + m2) + '"'
-			+ ' style="font-size: ' + sc + 'px'
-			+ '; --viewbox-width: ' + (sc * w + m2) + 'px'
-			+ '; --viewbox-height:' + (sc * h + m2) + 'px'
-			+ '; --viewbox-margin:' + m + 'px'
-			+ '; --viewbox-xMin: ' + (sc * l.xMin) + 'px'
-			+ '; --viewbox-xMax: ' + (sc * l.xMax) + 'px'
-			+ '; --viewbox-yMin: ' + (sc * l.yMin) + 'px'
-			+ '; --viewbox-yMax: ' + (sc * l.yMax) + 'px'
-			+ '; --viewbox-xAdvanceMax: '
-			+ (sc * l.xAdvanceMax) + 'px' + '">';
+			+ ' width="' + (sc * w + m2) + '"'
+			+ ' height="' + (sc * h + m2) + '"'
+			+ ' style="font-size: ' + sc + u
+			+ '; --viewbox-width: ' + (sc * w + m2) + u
+			+ '; --viewbox-height:' + (sc * h + m2) + u
+			+ '; --viewbox-margin:' + m + u
+			+ '; --viewbox-xMin: ' + (sc * l.xMin) + u
+			+ '; --viewbox-xMax: ' + (sc * l.xMax) + u
+			+ '; --viewbox-yMin: ' + (sc * l.yMin) + u
+			+ '; --viewbox-yMax: ' + (sc * l.yMax) + u
+			+ '; --viewbox-xAdvanceMax: ' + (sc * l.xAdvanceMax) + u
+			+ '; --viewbox-ascenderMax: ' + (sc * l.ascenderMax) + u
+			+ '; --viewbox-descenderMin: ' + (sc * l.descenderMin)
+			+ u + '">';
 		if (Object.keys(this.definitions).length != 0) {
 			s += '<defs>';
 			for (var d in k.definitions)
